@@ -1,4 +1,4 @@
-# 2D Occupancy Grid Mapping
+<h1 align="center"> 2 Dimensional Occupancy Grid Mapping </h1>
 
 <p align="center">
   <img src="data/project_title.png" alt="Project Logo Cover" width="1500"/>
@@ -67,7 +67,7 @@ The below images represents a visual representation of Occupancy Grid Mapping an
 <p align="center">
   
   <a href="https://www.linkedin.com/posts/tvharikrishna_occupancygrid-gridmapping-mappingros-activity-7122201619743535105-HGud?utm_source=share&utm_medium=member_desktop">
-  <img src="https://img.shields.io/badge/Video-Watch Occupancy Grid Mapping in Action-blue" alt="Video" width="510" height="50"/>
+  <img src="https://img.shields.io/badge/Video-Watch Occupancy Grid Mapping in Action-blue" alt="Video" width="610" height="50"/>
   </a>
 </p>
 
