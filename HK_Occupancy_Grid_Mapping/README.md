@@ -1,7 +1,18 @@
-<h1 align="center"> 2 Dimensional Occupancy Grid Mapping </h1>
+<h1 align="center"> Occupancy Grid Mapping & Morphological Map Refinement </h1>
 
 <p align="center">
   <img src="data/project_title.png" alt="Project Logo Cover" width="1500"/>
+</p>
+
+---------------------------------------------
+
+## ▶ My Project Video Demonstration:
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/posts/tvharikrishna_occupancygrid-gridmapping-mappingros-activity-7122201619743535105-HGud?utm_source=share&utm_medium=member_desktop">
+  <img src="https://img.shields.io/badge/Video-Watch Occupancy Grid Mapping in Action-blue" alt="Video" width="615" height="50"/>
+  </a>
 </p>
 
 ---------------------------------------------
@@ -59,16 +70,5 @@ The below images represents a visual representation of Occupancy Grid Mapping an
   <img src="data/refinment_Map_5.jpg" alt="Refinement Map 5" width="200"/>
 </p>
 
-
----------------------------------------------
-
-## ▶ My Project Video Demonstration:
-
-<p align="center">
-  
-  <a href="https://www.linkedin.com/posts/tvharikrishna_occupancygrid-gridmapping-mappingros-activity-7122201619743535105-HGud?utm_source=share&utm_medium=member_desktop">
-  <img src="https://img.shields.io/badge/Video-Watch Occupancy Grid Mapping in Action-blue" alt="Video" width="610" height="50"/>
-  </a>
-</p>
 
 ---------------------------------------------
