@@ -43,7 +43,7 @@ The below images represents a visual representation of Occupancy Grid Mapping an
 
 ---------------------------------------------
 
-## Map after Refinment using Erosion and Dilation
+## ▶ Map after Refinment using Erosion and Dilation
 
 ### • Erosion
   Erosion is a morphological process that shrinks the boundaries of the foreground object, effectively reducing noise and small details from an image.
@@ -62,7 +62,7 @@ The below images represents a visual representation of Occupancy Grid Mapping an
 
 ---------------------------------------------
 
-## My Project Video Demonstration:
+## ▶ My Project Video Demonstration:
 
 <p align="center">
   
