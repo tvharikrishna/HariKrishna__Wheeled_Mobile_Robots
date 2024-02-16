@@ -7,7 +7,7 @@
 <!-- Section: What is ROS? -->
 <h1>🔻 What is Robot Operating System (ROS)?</h1>
 <p align='justify'>
-The Robot Operating System (ROS) is a powerful set of tools and software libraries designed to help developers build and control robots. It acts as a bridge between robot hardware and software, facilitating communication and the integration of software algorithms. ROS simplifies the programming of robots by providing the capability to control both hardware and software components.
+The Robot Operating System (ROS) is a powerful set of tools and software libraries designed to help developers build and control robots. It acts as a bridge between robot hardware and software, facilitating communication and the integration of software algorithms.
 </p>
 
 
