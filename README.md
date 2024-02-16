@@ -32,8 +32,10 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 
 <h1>🔻 Repository Simulators</h1>
 
-<p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both tools are instrumental for robotics simulation, each offering unique advantages.</p>
+<p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both of these powerful tools are instrumental for robotics simulation, each offering unique advantages that cater to different aspects of robotics development and testing.</p>
 
+
+<div align="center">
 <div style="display: flex; justify-content: center;">
     <table>
         <tr>
@@ -66,6 +68,7 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
         </tr>
     </table>
 </div>
+</div>
 
 <br>
 
@@ -74,10 +77,10 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. These emphasize the integration of ROS in developing sophisticated robotic solutions and the use of simulation environments to test and refine autonomous robot behaviors before real-world deployment.
 </p>
 
-| Autonomous Mapping Building | Simultaneous localization and mapping (SLAM)  | Path Planning Algorithms |
+| Autonomous Mapping Building | SLAM | Path Planning Algorithms |
 |--------------------|--------------------------|--------------------------|
 | Motion Control Algorithms           | Sensor Fusion Algorithms            | Environmental Modeling             |
-| Robotics Grasping & Manipulations | Robotics Perceptions                 | Navigation and Localization                  |
+| Robotics Manipulations | Robotics Perceptions (Non-AI/AI)                 | Navigation and Localization                  |
 
 <br>
 
