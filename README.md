@@ -13,7 +13,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 <!-- ROS Logo -->
 <p align="center">
     <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="300"/>
-</p> <br>
+</p>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
 <h1>🔻 What are Autonomous Mobile Robots?</h1>
