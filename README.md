@@ -13,7 +13,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 <!-- ROS Logo -->
 <p align="center">
     <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="300"/>
-</p>
+</p> <br>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
 <h1>🔻 What are Autonomous Mobile Robots?</h1>
@@ -29,7 +29,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 | AMR  | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
 | AMMR | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
 
-</div>
+</div> <br>
 
 <h1>🔻 Repository Simulators</h1>
 
@@ -68,6 +68,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
         </tr>
     </table>
 </div>
+<br>
 
 <h1>🔻 Repository Overview</h1>
 <p align='justify'>
@@ -81,7 +82,7 @@ This repository documents my comprehensive journey through diverse projects in a
 
 <br>
 
-<h1>🔻 Valuable Resources</h1>
+<h1>🔻 Valuable Resources</h1> <br>
 
 <!-- Last table without centering as per request -->
 <table>
