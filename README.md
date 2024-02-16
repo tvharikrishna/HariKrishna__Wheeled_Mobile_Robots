@@ -2,18 +2,18 @@
 
 <!-- Documentation and Read Time -->
 <p align="right">© Documentation by tvharikrishna</p>
-<p align="right">Estimated read time: 1 minute 📚</p>
+<p align="right">1 minute read 📚</p>
 
 <!-- Section: What is ROS? -->
 <h1>🔻 What is the Robot Operating System (ROS)?</h1>
 <p align='justify'>
 Robot Operating System (ROS) is a powerful set of tools and software libraries designed to help developers build and control robots. It acts like a bridge for different parts of a robot to communicate, including sensors, motors, and software algorithms. ROS makes it easier to program robots by offering ready-to-use code and the ability to control hardware.
-</p>
+</p> <br>
 
-<!-- ROS System Architecture Diagram -->
+<!-- ROS Logo -->
 <p align="center">
     <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="300"/>
-</p>
+</p> <br>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
 <h1>🔻 What are Wheeled Mobile Robots?</h1>
@@ -68,7 +68,7 @@ This repository documents my comprehensive journey through diverse projects in a
    - Book title: "Introduction to Autonomous Mobile Robots" by Roland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza
 
 <p align="center">
-    <img src="readme_data/textbook.png" alt="ROS system architecture diagram" width="300"/>
+    <img src="readme_data/textbook.jpeg" alt="ROS system architecture diagram" width="300"/>
 </p>
 
 ---
