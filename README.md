@@ -12,11 +12,11 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 
 <!-- ROS System Architecture Diagram -->
 <p align="center">
-    <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="651"/>
+    <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="300"/>
 </p>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
-<h1>🔻 Wheeled Mobile Robots?</h1>
+<h1>🔻 What are Wheeled Mobile Robots?</h1>
 <p align="justify">
 <strong>Mobile Robot:</strong> A wheeled mobile robot is a type of robot that moves using wheels. This design allows for easier navigation and control in various environments, making them popular for tasks ranging from industrial automation to exploration.
 </p>
@@ -39,15 +39,37 @@ Below is a basic overview of wheeled mobile robots. These robots vary in wheel c
 
 <h1>🔻 Repository Simulators</h1>
 
+The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both tools are instrumental for robotics simulation, each offering unique advantages.
+
+| Gazebo | NVIDIA Isaac |
+|-----------|--------------|
+| <img src="readme_data/gazebo_logo.png" width="200"> | <img src="readme_data/isaac_logo.png" width="300"> |
+| General Robotics Simulation | Commercial Platform with a Focus on AI |
+| Supports Multiple Physics Engines | Advanced Simulation for AI Robots |
+| Good Graphics Rendering | Photorealistic Simulation |
+| Seamless Integration with ROS | Physics and AI Integration |
+| Open Source | Optimized for NVIDIA Hardware |
+
 
 <h1>🔻 Repository Overview</h1>
 <p align='justify'>
-This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. It showcases various applications and experiments, emphasizing the integration of ROS in developing sophisticated robotic solutions and the use of simulation environments to test and refine autonomous robot behaviors before real-world deployment.
+This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. These emphasize the integration of ROS in developing sophisticated robotic solutions and the use of simulation environments to test and refine autonomous robot behaviors before real-world deployment.
 </p>
 
+| Autonomous Mapping Building | SLAM  | Path Planning Algorithms |
+|--------------------|--------------------------|--------------------------|
+| Motion Control Algorithms           | Sensor Fusion Algorithms            | Environmental Modeling             |
+| Robot Grasping & Manipulations | Robotics Perceptions                 | Navigation and Localization                  |
 
 
+<h1>🔻 Valuable Sources</h1>
 
+1) Recommended textbook for mobile robots: 
+   - Book title: "Introduction to Autonomous Mobile Robots" by Roland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza
+
+<p align="center">
+    <img src="readme_data/textbook.png" alt="ROS system architecture diagram" width="300"/>
+</p>
 
 ---
 
