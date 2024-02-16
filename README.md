@@ -32,19 +32,42 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 
 <h1>🔻 Repository Simulators</h1>
 
-The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both tools are instrumental for robotics simulation, each offering unique advantages.
+<p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both tools are instrumental for robotics simulation, each offering unique advantages.</p>
 
-| Gazebo | NVIDIA Isaac |
-|-----------|--------------|
-| <img src="readme_data/gazebo_logo.png" width="200"> | <img src="readme_data/isaac_logo.png" width="300"> |
-| General Robotics Simulation | Commercial Platform with a Focus on AI |
-| Supports Multiple Physics Engines | Advanced Simulation for AI Robots |
-| Good Graphics Rendering | Photorealistic Simulation |
-| Seamless Integration with ROS | Physics and AI Integration |
-| Open Source | Optimized for NVIDIA Hardware |
+<div style="display: flex; justify-content: center;">
+    <table>
+        <tr>
+            <th>Gazebo</th>
+            <th>NVIDIA Isaac</th>
+        </tr>
+        <tr>
+            <td><img src="readme_data/gazebo_logo.png" width="200"></td>
+            <td><img src="readme_data/isaac_logo.png" width="300"></td>
+        </tr>
+        <tr>
+            <td>General Robotics Simulation</td>
+            <td>Commercial Platform with a Focus on AI</td>
+        </tr>
+        <tr>
+            <td>Supports Multiple Physics Engines</td>
+            <td>Advanced Simulation for AI Robots</td>
+        </tr>
+        <tr>
+            <td>Good Graphics Rendering</td>
+            <td>Photorealistic Simulation</td>
+        </tr>
+        <tr>
+            <td>Seamless Integration with ROS</td>
+            <td>Physics and AI Integration</td>
+        </tr>
+        <tr>
+            <td>Open Source</td>
+            <td>Optimized for NVIDIA Hardware</td>
+        </tr>
+    </table>
+</div>
 
 <br>
-
 
 <h1>🔻 Repository Overview</h1>
 <p align='justify'>
