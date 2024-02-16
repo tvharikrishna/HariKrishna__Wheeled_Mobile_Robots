@@ -18,7 +18,7 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
 <h1>🔻 What are Autonomous Mobile Robots?</h1>
 <p align="justify">
-<code>AMR</code> are robots designed to perform tasks and navigate in their environment without direct human intervention. They use a combination of sensors, cameras, software algorithms, and sometimes artificial intelligence (AI) to perceive their surroundings, make decisions, and move with purpose towards a goal. Here are key features and capabilities of autonomous mobile robots:
+<code>AMR</code> are robots designed to perform tasks and navigate in their environment without direct human intervention. They use a combination of sensors, cameras, software algorithms, and sometimes artificial intelligence (AI) to perceive their surroundings, make decisions, and move with purpose towards a goal.
 </p>
 
 <div align="center">
@@ -69,12 +69,9 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
     </table>
 </div>
 
-<br>
-
 <h1>🔻 Repository Overview</h1>
 <p align='justify'>
-This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. These emphasize the integration of ROS in developing sophisticated robotic solutions and the use of simulation environments to test and refine autonomous robot behaviors before real-world deployment.
-</p>
+This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. </p>
 
 <!-- Markdown tables are automatically styled by GitHub and cannot be manually centered -->
 | Autonomous Mapping Building | SLAM | Path Planning Algorithms |
@@ -84,7 +81,7 @@ This repository documents my comprehensive journey through diverse projects in a
 
 <br>
 
-<h1>🔻 Valuable Sources</h1>
+<h1>🔻 Valuable Resources</h1>
 
 <!-- Last table without centering as per request -->
 <table>
@@ -116,9 +113,9 @@ This repository documents my comprehensive journey through diverse projects in a
       </a>
     </td>
   </tr>
-</table> <br>
+</table>
 
----
+<hr> <br>
 
 <p align="center">
     <img src="readme_data/robot_quote.png" alt="Inspirational quote on robotics and innovation" width="1500"/>
