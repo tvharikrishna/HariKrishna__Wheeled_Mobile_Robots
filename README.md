@@ -16,15 +16,19 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 </p>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
-<h1>🔻 What are Wheeled Mobile Robots and Their Types?</h1>
+<h1>🔻 Wheeled Mobile Robots?</h1>
 <p align="justify">
 <strong>Mobile Robot:</strong> A wheeled mobile robot is a type of robot that moves using wheels. This design allows for easier navigation and control in various environments, making them popular for tasks ranging from industrial automation to exploration.
 </p>
 
-<!-- Table of Wheeled Mobile Robot Types -->
+<h3>💠 Types of Wheeled Mobile Robots</h3>
+<p align="justify">
+Below is a basic overview of wheeled mobile robots. These robots vary in wheel configuration (from 2-wheel to multi-wheel designs) and size, each tailored for different tasks. The list highlights key types to introduce the fundamentals of mobile robotics.
+</p>
+
 <div align="center">
 
-| Type | Description |
+| Types | Description |
 |------|-------------|
 | AMR (Autonomous Mobile Robots) | Robots that can navigate and perform tasks in an environment without being directly controlled by a human. |
 | AMMR (Autonomous Mobile Manipulation Robots) | Specialized in transporting and manipulating materials in environments like warehouses without human intervention. |
@@ -33,16 +37,17 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 
 </div>
 
+<h1>🔻 Repository Simulators</h1>
 
 
-
-# 🔻 Repository Overview
-
-# 🔻 Repository Simulators
-
+<h1>🔻 Repository Overview</h1>
 <p align='justify'>
 This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. It showcases various applications and experiments, emphasizing the integration of ROS in developing sophisticated robotic solutions and the use of simulation environments to test and refine autonomous robot behaviors before real-world deployment.
 </p>
+
+
+
+
 
 ---
 
