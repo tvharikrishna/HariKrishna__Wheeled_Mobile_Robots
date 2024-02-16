@@ -5,7 +5,7 @@
 <p align="right">1 minute read 📚</p>
 
 <!-- Section: What is ROS? -->
-<h1>🔻 What is the Robot Operating System (ROS)?</h1>
+<h1>🔻 What is Robot Operating System (ROS)?</h1>
 <p align='justify'>
 Robot Operating System (ROS) is a powerful set of tools and software libraries designed to help developers build and control robots. It acts like a bridge for different parts of a robot to communicate, including sensors, motors, and software algorithms. ROS makes it easier to program robots by offering ready-to-use code and the ability to control hardware.
 </p> <br>
@@ -16,22 +16,17 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 </p> <br>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
-<h1>🔻 What are Wheeled Mobile Robots?</h1>
+<h1>🔻 What are Autonomous Mobile Robots?</h1>
 <p align="justify">
-<strong>Mobile Robot:</strong> A wheeled mobile robot is a type of robot that moves using wheels. This design allows for easier navigation and control in various environments, making them popular for tasks ranging from industrial automation to exploration.
-</p>
-
-<h3>💠 Types of Wheeled Mobile Robots</h3>
-<p align="justify">
-Below is a basic overview of wheeled mobile robots. These robots vary in wheel configuration (from 2-wheel to multi-wheel designs) and size, each tailored for different tasks. The list highlights key types to introduce the fundamentals of mobile robotics.
+<code>AMR</code> are robots designed to perform tasks and navigate in their environment without direct human intervention. They use a combination of sensors, cameras, software algorithms, and sometimes artificial intelligence (AI) to perceive their surroundings, make decisions, and move with purpose towards a goal. Here are key features and capabilities of autonomous mobile robots:
 </p>
 
 <div align="center">
 
-| Types | Robot Description |
-|------|-------------|
-| AMR  | Autonomous Mobile Robots (Mapping & Navigation) |
-| AMMR | Autonomous Mobile Manipulation Robots (Includes Grasping & Manipulation) |
+| AB | Robot Type | Robot Description |  
+|------|-------------|----------|
+| AMR  | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
+| AMMR | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
 
 </div>
 
@@ -54,10 +49,10 @@ The table below introduces the simulators used in this repository: Gazebo and NV
 This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. These emphasize the integration of ROS in developing sophisticated robotic solutions and the use of simulation environments to test and refine autonomous robot behaviors before real-world deployment.
 </p>
 
-| Autonomous Mapping Building | SLAM  | Path Planning Algorithms |
+| Autonomous Mapping Building | Simultaneous localization and mapping (SLAM)  | Path Planning Algorithms |
 |--------------------|--------------------------|--------------------------|
 | Motion Control Algorithms           | Sensor Fusion Algorithms            | Environmental Modeling             |
-| Robot Grasping & Manipulations | Robotics Perceptions                 | Navigation and Localization                  |
+| Robotics Grasping & Manipulations | Robotics Perceptions                 | Navigation and Localization                  |
 
 
 <h1>🔻 Valuable Sources</h1>
