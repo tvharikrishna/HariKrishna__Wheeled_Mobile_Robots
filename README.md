@@ -8,7 +8,7 @@
 <h1>🔻 What is Robot Operating System (ROS)?</h1>
 <p align='justify'>
 The Robot Operating System (ROS) is an exceptionally powerful set of tools and software libraries designed to assist developers in building and controlling sophisticated robots. It acts as a crucial bridge between robot hardware and software, efficiently facilitating communication and the seamless integration of complex software algorithms.
-</p>
+</p> <br>
 
 <!-- ROS Logo -->
 <p align="center">
@@ -19,7 +19,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 <h1>🔻 What are Autonomous Mobile Robots?</h1>
 <p align="justify">
 <code>AMR</code> are robots designed to perform tasks and navigate in their environment without direct human intervention. They use a combination of sensors, cameras, software algorithms, and sometimes artificial intelligence (AI) to perceive their surroundings, make decisions, and move with purpose towards a goal.
-</p>
+</p>  <br>
 
 <div align="center">
 
@@ -29,11 +29,11 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 | AMR  | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
 | AMMR | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
 
-</div> <br>
+</div>
 
 <h1>🔻 Repository Simulators</h1>
 
-<p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both of these powerful tools are instrumental for robotics simulation, each offering unique advantages that cater to different aspects of robotics development and testing.</p>
+<p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both of these powerful tools are instrumental for robotics simulation, each offering unique advantages that cater to different aspects of robotics development and testing.</p> <br>
 
 <!-- HTML table centered -->
 <div align="center">
@@ -71,7 +71,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 
 <h1>🔻 Repository Overview</h1>
 <p align='justify'>
-This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. </p>
+This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. </p> <br>
 
 <!-- Markdown tables are automatically styled by GitHub and cannot be manually centered -->
 | Autonomous Mapping Building | SLAM | Path Planning Algorithms |
