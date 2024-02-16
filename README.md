@@ -29,7 +29,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 | AMR  | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
 | AMMR | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
 
-</div>
+</div> <br>
 
 <h1>🔻 Repository Simulators</h1>
 
