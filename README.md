@@ -23,6 +23,7 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 
 <div align="center">
 
+<!-- Markdown table cannot be centered with div in GitHub Markdown, showing intent only -->
 | AB | Robot Type | Robot Description |  
 |------|-------------|----------|
 | AMR  | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
@@ -34,9 +35,8 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 
 <p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both of these powerful tools are instrumental for robotics simulation, each offering unique advantages that cater to different aspects of robotics development and testing.</p>
 
-
+<!-- HTML table centered -->
 <div align="center">
-<div style="display: flex; justify-content: center;">
     <table>
         <tr>
             <th>Gazebo</th>
@@ -68,7 +68,6 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
         </tr>
     </table>
 </div>
-</div>
 
 <br>
 
@@ -77,6 +76,7 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. These emphasize the integration of ROS in developing sophisticated robotic solutions and the use of simulation environments to test and refine autonomous robot behaviors before real-world deployment.
 </p>
 
+<!-- Markdown tables are automatically styled by GitHub and cannot be manually centered -->
 | Autonomous Mapping Building | SLAM | Path Planning Algorithms |
 |--------------------|--------------------------|--------------------------|
 | Motion Control Algorithms           | Sensor Fusion Algorithms            | Environmental Modeling             |
@@ -86,6 +86,7 @@ This repository documents my comprehensive journey through diverse projects in a
 
 <h1>🔻 Valuable Sources</h1>
 
+<!-- Last table without centering as per request -->
 <table>
   <tr>
     <th>Name</th>
@@ -118,7 +119,6 @@ This repository documents my comprehensive journey through diverse projects in a
 </table> <br>
 
 ---
-
 
 <p align="center">
     <img src="readme_data/robot_quote.png" alt="Inspirational quote on robotics and innovation" width="1500"/>
