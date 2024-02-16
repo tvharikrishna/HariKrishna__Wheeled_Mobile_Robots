@@ -28,7 +28,7 @@ Robot Operating System (ROS) is a powerful set of tools and software libraries d
 | AMR  | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
 | AMMR | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
 
-</div>
+</div> <br>
 
 <h1>🔻 Repository Simulators</h1>
 
@@ -43,6 +43,8 @@ The table below introduces the simulators used in this repository: Gazebo and NV
 | Seamless Integration with ROS | Physics and AI Integration |
 | Open Source | Optimized for NVIDIA Hardware |
 
+<br>
+
 
 <h1>🔻 Repository Overview</h1>
 <p align='justify'>
@@ -54,6 +56,7 @@ This repository documents my comprehensive journey through diverse projects in a
 | Motion Control Algorithms           | Sensor Fusion Algorithms            | Environmental Modeling             |
 | Robotics Grasping & Manipulations | Robotics Perceptions                 | Navigation and Localization                  |
 
+<br>
 
 <h1>🔻 Valuable Sources</h1>
 
