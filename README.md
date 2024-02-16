@@ -22,14 +22,14 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 </p>  <br>
 
 <div align="center">
-
+    
 <!-- Markdown table cannot be centered with div in GitHub Markdown, showing intent only -->
 | AB | Robot Type | Robot Description |  
 |------|-------------|----------|
 | AMR  | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
 | AMMR | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
 
-</div> <br>
+</div>
 
 <h1>🔻 Repository Simulators</h1>
 
