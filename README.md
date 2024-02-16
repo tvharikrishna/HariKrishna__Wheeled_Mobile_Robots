@@ -66,10 +66,21 @@ This repository documents my comprehensive journey through diverse projects in a
 
 1) Recommended textbook for mobile robots: 
    - Book title: "Introduction to Autonomous Mobile Robots" by Roland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza
+   - <a href="https://mitpress.mit.edu/9780262015356/introduction-to-autonomous-mobile-robots/"><img src="https://img.shields.io/badge/Book-Introduction%20to%20Autonomous%20Mobile%20Robots-red?logo=book&style=flat-square" alt="Book Link" style="height: 22px;"/></a>
 
-<p align="center">
-    <img src="readme_data/textbook.jpeg" alt="ROS system architecture diagram" width="300"/>
+<p align="left">
+    <img src="readme_data/textbook.jpg" alt="Book Cover" width="200"/>
 </p>
+
+2) NVIDIA Isaac Simulation:
+<a href="https://docs.omniverse.nvidia.com/isaacsim/latest/index.html">
+    <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Simulation-Documentation-blue?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac Simulation Documentation" style="height: 22px;"/>
+</a>
+
+3) Gazebo:
+   - <a href="https://gazebosim.org/home"><img src="https://img.shields.io/badge/Gazebo-Simulation%20Documentation-blue?logo=ros&style=flat-square&logoWidth=100" alt="Gazebo Simulation Documentation" style="height: 22px;"/></a>
+
+
 
 ---
 
