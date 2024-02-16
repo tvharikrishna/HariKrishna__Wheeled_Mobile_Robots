@@ -1,39 +1,40 @@
 <!-- README: HariKrishn_ROSRobotics -->
+
+<!-- Documentation and Read Time -->
 <p align="right">© Documentation by tvharikrishna</p>
 <p align="right">Estimated read time: 1 minute 📚</p>
 
-# 🔻 What is the Robot Operating System (ROS)?
-
+<!-- Section: What is ROS? -->
+<h1>🔻 What is the Robot Operating System (ROS)?</h1>
 <p align='justify'>
-Robot Operating System (ROS) is a powerful set of tools and software libraries designed to help developers build and control robots. It acts like a bridge for different parts of a robot to communicate, including sensors, motors, and software algorithms. ROS makes it easier to program robots by offering ready-to-use code and the ability to control hardware. Think of it as a toolkit that helps robots understand and interact with the world around them.
+Robot Operating System (ROS) is a powerful set of tools and software libraries designed to help developers build and control robots. It acts like a bridge for different parts of a robot to communicate, including sensors, motors, and software algorithms. ROS makes it easier to program robots by offering ready-to-use code and the ability to control hardware.
 </p>
 
+<!-- ROS System Architecture Diagram -->
 <p align="center">
     <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="651"/>
 </p>
 
-# 🔻 What are Wheeled Mobile Robots and Their Types?
-
+<!-- Section: What are Wheeled Mobile Robots and Their Types? -->
+<h1>🔻 What are Wheeled Mobile Robots and Their Types?</h1>
 <p align="justify">
 <strong>Mobile Robot:</strong> A wheeled mobile robot is a type of robot that moves using wheels. This design allows for easier navigation and control in various environments, making them popular for tasks ranging from industrial automation to exploration.
 </p>
 
-<p align="justify">
-<strong>Types of Wheeled Mobile Robots:</strong> Below is a brief overview of four common types, but it's important to note that these are just a few examples of the many different wheeled mobile robots available.
-</p>
+<!-- Table of Wheeled Mobile Robot Types -->
+<div align="center">
 
-<p align="center">
 | Type | Description |
 |------|-------------|
 | AMR (Autonomous Mobile Robots) | Robots that can navigate and perform tasks in an environment without being directly controlled by a human. |
-| AMMR (Autonomous Mobile Manipulation Robots) | Specialized in transporting materials in environments like warehouses without human intervention. |
+| AMMR (Autonomous Mobile Manipulation Robots) | Specialized in transporting and manipulating materials in environments like warehouses without human intervention. |
 | AGV (Automated Guided Vehicles) | Vehicles that follow marked lines or wires on the floor, or use radio waves, vision cameras, magnets, or lasers for navigation. |
 | UGV (Unmanned Ground Vehicles) | Robots that operate on the ground without a human onboard, used for a variety of tasks from surveillance to exploration. |
-</p>
 
-<p align="center">
-    <img src="readme_data/mobile_robot_types.png" alt="Different types of mobile robots" width="1000"/>
-</p>
+</div>
+
+
+
 
 # 🔻 Repository Overview
 
@@ -46,5 +47,5 @@ This repository documents my comprehensive journey through diverse projects in a
 ---
 
 <p align="center">
-    <img src="readme_data/robotics_quote.png" alt="Inspirational quote on robotics and innovation" width="1500"/>
+    <img src="readme_data/robot_quote.png" alt="Inspirational quote on robotics and innovation" width="1500"/>
 </p>
