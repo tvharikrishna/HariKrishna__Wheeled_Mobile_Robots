@@ -1,8 +1,8 @@
 <!-- README: HariKrishn_ROSRobotics -->
 
 <!-- Documentation and Read Time -->
-<p align="right">© Documentation by tvharikrishna</p>
-<p align="right">1 minute read 📚</p>
+<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
+<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p>
 
 <!-- Section: What is ROS? -->
 <h1>🔻 What is Robot Operating System (ROS)?</h1>
