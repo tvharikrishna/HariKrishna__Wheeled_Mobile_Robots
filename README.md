@@ -28,12 +28,10 @@ Below is a basic overview of wheeled mobile robots. These robots vary in wheel c
 
 <div align="center">
 
-| Types | Description |
+| Types | Robot Description |
 |------|-------------|
-| AMR (Autonomous Mobile Robots) | Robots that can navigate and perform tasks in an environment without being directly controlled by a human. |
-| AMMR (Autonomous Mobile Manipulation Robots) | Specialized in transporting and manipulating materials in environments like warehouses without human intervention. |
-| AGV (Automated Guided Vehicles) | Vehicles that follow marked lines or wires on the floor, or use radio waves, vision cameras, magnets, or lasers for navigation. |
-| UGV (Unmanned Ground Vehicles) | Robots that operate on the ground without a human onboard, used for a variety of tasks from surveillance to exploration. |
+| AMR  | Autonomous Mobile Robots (Mapping & Navigation) |
+| AMMR | Autonomous Mobile Manipulation Robots (Includes Grasping & Manipulation) |
 
 </div>
 
@@ -64,25 +62,39 @@ This repository documents my comprehensive journey through diverse projects in a
 
 <h1>🔻 Valuable Sources</h1>
 
-1) Recommended textbook for mobile robots: 
-   - Book title: "Introduction to Autonomous Mobile Robots" by Roland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza
-   - <a href="https://mitpress.mit.edu/9780262015356/introduction-to-autonomous-mobile-robots/"><img src="https://img.shields.io/badge/Book-Introduction%20to%20Autonomous%20Mobile%20Robots-red?logo=book&style=flat-square" alt="Book Link" style="height: 22px;"/></a>
-
-<p align="left">
-    <img src="readme_data/textbook.jpg" alt="Book Cover" width="200"/>
-</p>
-
-2) NVIDIA Isaac Simulation:
-<a href="https://docs.omniverse.nvidia.com/isaacsim/latest/index.html">
-    <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Simulation-Documentation-blue?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac Simulation Documentation" style="height: 22px;"/>
-</a>
-
-3) Gazebo:
-   - <a href="https://gazebosim.org/home"><img src="https://img.shields.io/badge/Gazebo-Simulation%20Documentation-blue?logo=ros&style=flat-square&logoWidth=100" alt="Gazebo Simulation Documentation" style="height: 22px;"/></a>
-
-
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Recommended Textbook for Mobile Robots</td>
+    <td>
+      <a href="https://mitpress.mit.edu/9780262015356/introduction-to-autonomous-mobile-robots/">
+        <img src="https://img.shields.io/badge/Book-red?logo=book&style=flat-square" alt="Book Link" style="height: 25px;"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>NVIDIA Documentation</td>
+    <td>
+      <a href="https://docs.omniverse.nvidia.com/isaacsim/latest/index.html">
+        <img src="https://img.shields.io/badge/Nvidia%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="Nvidia Isaac" style="height: 25px;"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Gazebo Documentation</td>
+    <td>
+      <a href="https://gazebosim.org/home">
+        <img src="https://img.shields.io/badge/Gazebo-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/>
+      </a>
+    </td>
+  </tr>
+</table> <br>
 
 ---
+
 
 <p align="center">
     <img src="readme_data/robot_quote.png" alt="Inspirational quote on robotics and innovation" width="1500"/>
