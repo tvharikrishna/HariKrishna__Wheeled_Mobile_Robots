@@ -5,7 +5,7 @@
 ---
 
 **Permissions**:
-- ✅ Only source code is licensed under `𝗚𝗡𝗨 𝗚𝗣𝗟 𝘃𝟯.𝟬` use, modify, and share according to its terms.
+- ✅ Only source code is licensed under **GNU GPL v3.0**; use, modify, and share according to its terms.
 
 **Limitations**:
 - ❌ No commercial use of documentation, non-code elements, or documentation footer images.
@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <th>⚠️</th>
+    <th>📝</th>
     <th>Category</th>
     <th width="135px">License</th>
     <th>Limitations</th>
