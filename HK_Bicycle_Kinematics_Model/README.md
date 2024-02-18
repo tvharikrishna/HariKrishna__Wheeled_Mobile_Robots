@@ -1,113 +1,126 @@
-<h1 align="center">Vehicle Dynamics: Bicycle Kinematics Model</h1>
+<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
+<p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
 
+<!------ PROJECT TITLE ------>
 <p align="center">
-  <img src="data/project_tittle.png" alt="Project Logo Cover" width="1400"/>
+    <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
+</p> <br> <br>
+
+<!------ WHAT ------>
+<p align="center">
+    <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
 </p>
 
----------------------------------------------
+<p align="center"><h1>🎀 Essence of the Project</h1></p>
+<p align='justify'>
+The Bicycle Kinematic Model block creates a bicycle vehicle model to simulate simplified car-like vehicle dynamics, representing a vehicle with two axles defined by the length between the axles, known as the `wheel base. The vehicle's heading, theta, is defined at the center of the rear axle, where the front wheel can be steered using an angle psi. <br>
+    
+This kinematic approach is fundamental in <strong>autonomous driving vehicles</strong> and <strong>autonomous mobile robotics</strong>, enabling accurate motion planning and control by predicting vehicle trajectory and facilitating the implementation of advanced navigation algorithms. </p>
 
-## ▶ My Project Video Demonstration:
 <p align="center">
-  <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-selfdrivingcars-pidcontroller-activity-7117165597116743680-jC2Q?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/Video-PID Controller on Mobile Robot-blue" alt="Video" width="510" height="50"/>
+  <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-autonomousvehicles-mobilerobots-activity-7115334457124900866-LaV_?utm_source=share&utm_medium=member_desktop">
+    <img src="https://img.shields.io/badge/My Project Video-Kinematic Bicycle Model-blue" alt="Video" width="337" height="30"/>
   </a>
 </p>
 
----------------------------------------------
 
-## ▶ About this Project:
-A Proportional-Integral-Derivative (PID) Controller is a fundamental feedback loop mechanism widely utilized in control systems for motion planning. Its versatility allows it to be applied in numerous robotics and autonomous systems to 
-achieve precise and stable movement. At the heart of this project lies the implementation of a PID Controller, designed to manage the dynamic response of an autonomous vehicle as it follows a designated path. The PID Controller adjusts 
-the vehicle's steering based on real-time feedback to minimize the deviation.
- 
-This precise control is essential across various applications, from manufacturing robots that require exact movement patterns to maintain efficiency, to self-driving cars that need to navigate complex environments while adjusting to 
-changing conditions. The project showcases how PID control can be tuned to optimize performance, reflecting its critical role in enhancing the reliability and accuracy of automated systems.
 
----------------------------------------------
+<br> <br>
 
-## ▶ Working of PID Controller:
-
-The PID (Proportional-Integral-Derivative) controller is a control loop feedback mechanism widely used in industrial control systems. It adjusts the output to bring a process to its desired setpoint or target. Here’s a brief explanation of how each component works:
-
+<!------ WHY ------>
 <p align="center">
-  <img src="data/pid_diagram.png" alt="Project Logo Cover" width="1500"/>
+    <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
 </p>
 
-### <strong> • Proportional (P) Term: </strong> 
-This is the reactive part of the controller. It produces an output value that is proportional to the current error value the difference between the desired setpoint and the current process variable. A higher proportional gain results in a larger output response to the error, which can improve the system's response time but also increase the risk of overshooting the setpoint.
+<p align="center"><h1>🎯 Project Vision</h1></p>
+<p style="text-align: justify;">
+▸ The Bicycle Kinematic Model is pivotal in autonomous driving and robotics for precise movement planning and execution.
 
-### <strong>  • Integral (I) Term: </strong> 
-This component sums the error over time and integrates it with respect to the past errors. The integral term accelerates the movement of the process towards the setpoint and eliminates the residual steady-state error that occurs with a pure proportional controller. However, too much integral action can lead to instability and oscillations.
+▸ It converts complex vehicle dynamics into a simpler model for trajectory prediction from steering commands.
 
-### <strong>  • Derivative (D) Term: </strong> 
-The derivative term predicts system behavior and thus can provide a damping effect. It is a measure of how quickly the process variable is changing and effectively slows down the output to prevent overshooting. It can improve stability and settle time.
+▸ Essential for path planning and control, it predicts vehicle or robot future positions for smooth navigation and path adherence.
 
-The PID controller works by calculating an 'error value' as the difference between a measured process variable and a desired setpoint. The controller attempts to minimize the error by adjusting the process control inputs. The combination of these three terms provides control action designed to eliminate the error by adjusting process control variables such as the throttle, the steering angle, or the valve position in a system.
+▸ Optimizes trajectories for energy-efficient routing, extending battery life and reducing energy use.
 
----------------------------------------------
+▸ Enhances safety by enabling systems to react to unexpected obstacles or changes, minimizing accident risks.
+</p> <br> <br>
 
-## ▶ Advantages of PID Controller:
-    • Precision: PID controllers excel in systems where precision is paramount, providing exact control of the process and minimizing steady-state errors.
-    • Stability: They help to stabilize a system's response and reduce overshoot, contributing to the reliability of the control process.
-    • Flexibility: PID control loops are highly adaptable, allowing for fine-tuning of the Proportional, Integral, and Derivative terms to fit a wide range of applications.
-    • Efficiency: By optimizing the control effort, PID controllers can improve the energy efficiency of systems, leading to cost savings.
-    • Simplicity and Cost-effectiveness: Despite their effectiveness, PID controllers are relatively simple to design and implement, making them a cost-effective solution for many control problems.
-    • Universality: PID controllers are a standard tool in the industry, used in countless applications due to their robust performance in various conditions.
-    
----------------------------------------------
-
-## ▶ How to implement PID Steering for a Mobile Robot in ROS:
-
+<!------ HOW ------>
 <p align="center">
-  <img src="data/project_logo.png" alt="Project Logo Cover" width="1500"/>
+    <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
 
-### • Assign Waypoints and Visualize Them
-Start by defining the desired path for the mobile robot through waypoints. Use visualization tools available in ROS, such as RViz, to plot these waypoints on a map. This helps in both planning the route and monitoring the robot's progress during execution.
+<p align="center"><h1>🪓Project Implementation</h1></p>
 
-### • Set Up PID Coefficients and Variables
-Configure the PID controller with appropriate coefficients—proportional (Kp), integral (Ki), and derivative (Kd)—tailored to your specific robot. These values determine how the robot reacts to the difference between its current position and the waypoints (the error). You'll also need to set up vehicle-specific variables, such as maximum speed and turning angles.
+<p><h2>💠 Software Design & Tools </h2></p>
+<p align='justify'>
+The project is developed using the Robot Operating System (ROS), facilitating complex simulations and trajectory analysis. The mathematical foundation and kinematic behavior of the bicycle model are visualized through Matplotlib, with Python scripting at the core of the development. RViz provides real-time visualization of the robot model and trajectory, enhancing the analysis and debugging process.
+</p>
+<p>
+  <!-- Ubuntu Badge -->
+  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
+  <!-- Linux Badge -->
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
+  <!-- VS Code Badge -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
+  <!-- ROS Badge -->
+  <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
+  <!-- Matplotlib Badge -->
+  <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 25px;"/> &nbsp;
+</p> <br>
 
-### • Obtain Real-Time Odometry Information
-Gather real-time odometry data from the robot's sensors. This data provides the robot's current position and orientation, which is crucial for calculating the error in the following steps.
+<!------ Deployment and Testing ------>
+<p align="center"><h2>💠 Deployment and Testing </h2></p>
+<p align='justify'>
+▸ The deployment of the Bicycle Kinematic Model was conducted within a simulated environment using ROS, ensuring a controlled testing. I deployed the model on a standard Ubuntu system, with simulations facilitated by Matplotlib for trajectory visualization. The process included continuous integration practices to check for code integrity and automated tests to validate kinematic equations against predetermined inputs.
+</p>
 
-### • Determine y-error Based on the Reference Trajectory
-Calculate the lateral error (y-error) of the robot from its desired path. The y-error is the perpendicular distance from the robot to the closest point on the reference trajectory or the next waypoint.
+<p align='justify'>
+▸ Testing consisted of a series of controlled simulations designed to challenge the model's capabilities in trajectory planning and response. Scenarios included navigating circular paths, sharp turns, and S-shaped trajectories, each requiring precise control of steering angles and velocity. The model's performance was gauged by its ability to maintain the intended path with minimal deviation and its response time to dynamic commands.
+</p> <br>
 
-### • Utilize Proportional Control
-Apply proportional control to correct the robot's alignment with the path. The proportional term adjusts the robot's steering angle in proportion to the y-error, aiming to reduce the error over time.
+<!------ Observation 1 ------>
+<p align="center">
+    <img src="readme_data/project_obs_1.png" alt="Why we chose this project" width="1500"/>
+</p> <br>
 
-### • Implement Integral Control
-Use integral control to address any cumulative drift from the desired trajectory. This term sums the historical errors over time and applies corrections to eliminate bias and steady-state error.
+<!------ Observation 2 ------>
+<p align="center">
+    <img src="readme_data/project_obs_2.png" alt="Why we chose this project" width="1500"/>
+</p> <br>
 
-### • Employ Derivative Control
-Incorporate derivative control to anticipate future errors. It provides a damping force that reduces the rate of error change, preventing the robot from overshooting the path.
+<!------ Observation 3 ------>
+<p align="center">
+    <img src="readme_data/project_obs_3.png" alt="Why we chose this project" width="1500"/>
+</p> <br>
 
-### • Combine P, I, D Responses
-Combine the outputs of the P, I, and D terms to calculate the total steering command. The combined control signal is used to dynamically adjust the robot's steering to follow the path accurately.
+<!------ Result and Analysis ------>
+<p align="center"><h2>💠 Results & Analysis </h2></p>
 
-### • Adjust the Drive Command
-Adjust the robot's throttle or drive commands based on the control output to align its speed with the curvature of the path and current steering adjustments.
+<p align='justify'>
+▸ The Bicycle Kinematic Model's testing confirmed theoretical predictions with real-world behavior. Control sequences manipulated velocity and turning rate, with resulting positions and distances traveled quantifying model accuracy.
+</p>
 
-### • Steer the Robot
-Finally, use the computed control inputs to steer the robot along the path. Monitor the robot's progress and continuously adjust the control signals to maintain a smooth and accurate trajectory.
+<p align='justify'>
+▸ A test with <code>control sequence [1, 0.1, 5]</code> showed the model navigating from the origin to <code>(-2.5586, 5.1742)</code>, covering <code>5.77 units</code>. This aligns with predictions from kinematic equations, illustrating the model's precision.
+</p>
 
----------------------------------------------
+<p align='justify'>
+▸ Complex maneuvers like sharp turns and direction reversals were executed with high fidelity, as seen with sequences like <code>[1, 0.7, 7]</code> and <code>[-0.1, 0.8]</code>, validating the model's responsiveness to input variations.
+</p>
 
-## ▶ Why Do We Need to Tune a PID Controller?
+<p align='justify'>
+▸ The practical validation of the kinematic equations has established their high accuracy and reliability. Each computational step, from velocity computation to positional adjustments, adhered to theoretical expectations with precision. This thorough analysis has not only fortified the Bicycle Kinematic Model's theoretical foundations but has also illuminated its practical efficacy.
+</p>
 
-Tuning a PID controller is an essential step in any control system that employs feedback. Proper tuning ensures that the system responds to setpoint changes and disturbances rapidly and with minimal overshoot. Untuned or poorly tuned PID controllers can lead to inefficient operation, instability, excessive oscillation, or slow response times, all of which can affect the performance and safety of the controlled system. Effective tuning optimizes the control actions of the PID controller, ensuring it works in harmony with the dynamics of the process it is controlling. It is a delicate balance: the proportional term must be high enough to respond to changes, the integral term must correct any offset without causing instability, and the derivative term must predict and smooth the response. Without tuning, the controller cannot fulfill its role of maintaining the desired level of process control.
+<!------ Observation 4 ------>
+<p align="center">
+    <img src="readme_data/project_obs_4.png" alt="Why we chose this project" width="1500"/>
+</p> <hr> <br>
 
----------------------------------------------
-
-## ▶ PID Tuning Methods:
-
-1. Manual Tuning
-2. Trial and Error Tuning
-3. Ziegler-Nichols Tuning Method
-4. Cohen-Coon Tuning Method
-5. Kappa-Tau Tuning Method
-
-For a deeper understanding and guidance on PID tuning, consider visiting [PID Tuning Methods](https://www.incatools.com/pid-tuning/pid-tuning-methods/). This resource provides insights and practical advice on how to apply these methods to achieve a well-tuned control system.
-
----------------------------------------------
+<!------ Smile More :) ------>
+<p align="center">
+    <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Alt text for your image" width="1500"/>
+</p>
