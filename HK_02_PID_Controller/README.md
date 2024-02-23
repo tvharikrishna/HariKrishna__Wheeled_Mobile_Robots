@@ -7,35 +7,44 @@
     <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
 </p> <br> <br>
 
-<!------ WHAT ------><!------ WHAT ------><!------ WHAT ------>
+<!------ WHAT ------>
 <p align="center">
-    <img src="what.png" alt="Why we chose this project" width="600"/>
+    <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
 </p>
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-▸ ADD TEXT HERE
-▸ ADD TEXT HERE 
-▸ ADD TEXT HERE 
-</p>
+▸ A <strong>Proportional-Integral-Derivative (PID) Controller</strong> is a fundamental feedback loop mechanism widely utilized in control systems for motion planning. Its versatility allows it to be applied in numerous robotics and autonomous systems to achieve precise and stable movement. At the heart of this project lies the implementation of a PID Controller, designed to manage the dynamic response of an autonomous vehicle as it follows a designated path. The PID Controller adjusts the vehicle's steering based on real-time feedback to minimize the deviation. </p>
+<p align='justify'>
+▸ This precise control is essential across various applications, from manufacturing robots that require exact movement patterns to maintain efficiency, to self-driving cars that need to navigate complex environments while adjusting to 
+changing conditions. The project showcases how PID control can be tuned to optimize performance, reflecting its critical role in enhancing the reliability and accuracy of automated systems. </p>
 
 <p align="center">
-  <a href="ADD_LINK_HERE">
-    <img src="https://img.shields.io/badge/My Project Video-ADD PROJECT NAME HERE-blue" alt="Video" width="337" height="30"/>
+  <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-selfdrivingcars-pidcontroller-activity-7117165597116743680-jC2Q?utm_source=share&utm_medium=member_desktop">
+    <img src="https://img.shields.io/badge/My Project Video-PID Motion Controller-blue" alt="Video" width="337" height="30"/>
   </a>
 </p> <br> <br>
 
-<!------ WHY ------><!------ WHY ------><!------ WHY ------>
+<!------ WHY ------>
 <p align="center">
-    <img src="why.png" alt="What the project accomplishes" width="600"/>
+    <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
 </p>
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-▸ ADD TEXT HERE
-▸ ADD TEXT HERE 
-▸ ADD TEXT HERE 
+<b>▸ Precision Engineering:</b> PID controllers excel in systems where meticulous accuracy is paramount, providing exact control of the process and minimizing steady-state errors for enhanced precision.
+    
+<b>▸ Dynamic Stability:</b> They help to stabilize a system's dynamic response, mitigate oscillations, and reduce overshoot, contributing to the overall dependability of the control mechanism.
+
+<b>▸ Adaptive Flexibility:</b> PID control loops are highly adaptable, allowing for precision tuning of the Proportional, Integral, and Derivative parameters to accommodate diverse industrial applications.
+
+<b>▸ Operational Efficiency:</b> By optimizing the control effort, PID controllers can augment the energy efficiency of systems, which translates into significant cost savings and resource optimization.
+
+<b>▸ Design Simplicity:</b> Despite their operational effectiveness, PID controllers maintain a straightforward design architecture, ensuring they are a cost-efficient option for a multitude of control challenges.
+
+<b>▸ Universal Application:</b> PID controllers are ubiquitous in the automation industry, revered for their robust performance across a spectrum of environmental and operational conditions.
 </p> <br> <br>
+
 
 <!------ HOW ------><!------ HOW ------><!------ HOW ------>
 <p align="center">
@@ -46,6 +55,17 @@
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
 The project is developed using ____,
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Gazebo-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/>
+<img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy" style="height: 25px;"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
+
 </p>
 
 <!------ Deployment and Testing ------><!------ Deployment and Testing ------><!------ Deployment and Testing ------>
@@ -99,21 +119,6 @@ The project is developed using ____,
 
 
 
-<h1 align="center">PID Steering Controller for Mobile Robots &amp; Self Driving Cars</h1>
-
-<p align="center">
-  <img src="data/project_tittle.png" alt="Project Logo Cover" width="1400"/>
-</p>
-
----------------------------------------------
-
-## ▶ About this Project:
-A Proportional-Integral-Derivative (PID) Controller is a fundamental feedback loop mechanism widely utilized in control systems for motion planning. Its versatility allows it to be applied in numerous robotics and autonomous systems to 
-achieve precise and stable movement. At the heart of this project lies the implementation of a PID Controller, designed to manage the dynamic response of an autonomous vehicle as it follows a designated path. The PID Controller adjusts 
-the vehicle's steering based on real-time feedback to minimize the deviation.
- 
-This precise control is essential across various applications, from manufacturing robots that require exact movement patterns to maintain efficiency, to self-driving cars that need to navigate complex environments while adjusting to 
-changing conditions. The project showcases how PID control can be tuned to optimize performance, reflecting its critical role in enhancing the reliability and accuracy of automated systems.
 
 ---------------------------------------------
 
@@ -139,12 +144,7 @@ The PID controller works by calculating an 'error value' as the difference betwe
 ---------------------------------------------
 
 ## ▶ Advantages of PID Controller:
-    • Precision: PID controllers excel in systems where precision is paramount, providing exact control of the process and minimizing steady-state errors.
-    • Stability: They help to stabilize a system's response and reduce overshoot, contributing to the reliability of the control process.
-    • Flexibility: PID control loops are highly adaptable, allowing for fine-tuning of the Proportional, Integral, and Derivative terms to fit a wide range of applications.
-    • Efficiency: By optimizing the control effort, PID controllers can improve the energy efficiency of systems, leading to cost savings.
-    • Simplicity and Cost-effectiveness: Despite their effectiveness, PID controllers are relatively simple to design and implement, making them a cost-effective solution for many control problems.
-    • Universality: PID controllers are a standard tool in the industry, used in countless applications due to their robust performance in various conditions.
+
     
 ---------------------------------------------
 
