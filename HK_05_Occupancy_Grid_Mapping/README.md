@@ -96,18 +96,18 @@ The below images represents a visual representation of Occupancy Grid Mapping an
 
 <h2>▸ Map after Refinement using Erosion and Dilation</h2>
 
-<h3>• Erosion</h3>
-<p>Erosion is a morphological process that shrinks the boundaries of the foreground object, effectively reducing noise and small details from an image. This technique is pivotal in eliminating irrelevant or extraneous structures that could impede the clarity of navigational pathways.</p>
-
-<h3>• Dilation</h3>
-<p>Dilation is the complementary process that expands the boundaries of the foreground object, often used to fill in small holes and connect disjointed elements in an image. By applying dilation, the map's structural integrity is enhanced, ensuring that essential navigational features are pronounced and easily interpretable.</p>
-
 <p align="center">
   <img src="readme_data/refinment_map_1.jpg" alt="Refinement Map 1" width="200"/>
   <img src="readme_data/refinment_map_2.jpg" alt="Refinement Map 3" width="200"/>
   <img src="readme_data/refinment_map_3.jpg" alt="Refinement Map 4" width="200"/>
   <img src="readme_data/refinment_map_4.jpg" alt="Refinement Map 5" width="200"/>
-</p> <hr> <br>
+</p>
+
+<h3>• Erosion</h3>
+<p>Erosion is a morphological process that shrinks the boundaries of the foreground object, effectively reducing noise and small details from an image. This technique is pivotal in eliminating irrelevant or extraneous structures that could impede the clarity of navigational pathways.</p>
+
+<h3>• Dilation</h3>
+<p>Dilation is the complementary process that expands the boundaries of the foreground object, often used to fill in small holes and connect disjointed elements in an image. By applying dilation, the map's structural integrity is enhanced, ensuring that essential navigational features are pronounced and easily interpretable.</p> <hr> <br>
 
 <!------ End Image ------><!------ End Image ------><!------ End Image ------>
 <p align="center">
