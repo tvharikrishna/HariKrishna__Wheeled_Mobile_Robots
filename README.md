@@ -75,16 +75,21 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. </p> <br>
 
 <!-- Markdown tables are automatically styled by GitHub and cannot be manually centered -->
+<div align="center">
+    
 | Autonomous Mapping Building | SLAM | Path Planning Algorithms |
 |--------------------|--------------------------|--------------------------|
 | Motion Control Algorithms           | Sensor Fusion Algorithms            | Environmental Modeling             |
 | Robotics Manipulations | Robotics Perceptions (Non-AI/AI)                 | Navigation and Localization                  |
+
+</div>
 
 <br>
 
 <h1>🔻 Valuable Resources</h1> <br>
 
 <!-- Last table without centering as per request -->
+<div align="center">
 <table>
   <tr>
     <th>Name</th>
@@ -115,8 +120,25 @@ This repository documents my comprehensive journey through diverse projects in a
     </td>
   </tr>
 </table>
+</div>
 
-<hr> <br>
+<h1>🔻 Tools & Technologies</h1>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20SIM-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Gazebo-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/CUDA-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" style="height: 25px;"/> &nbsp;
+
+<hr>
 
 <p align="center">
     <img src="readme_data/robot_quote.png" alt="Inspirational quote on robotics and innovation" width="1500"/>
