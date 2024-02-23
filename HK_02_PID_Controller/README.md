@@ -160,5 +160,5 @@ For a deeper understanding and guidance on PID tuning, consider visiting [PID Tu
 
 <!------ End Image ------>
 <p align="center">
-    <img src="readme_data/HK_rosquote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
 </p>
