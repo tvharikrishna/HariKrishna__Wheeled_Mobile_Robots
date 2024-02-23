@@ -32,26 +32,24 @@ changing conditions. The project showcases how PID control can be tuned to optim
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-Our Project Vision focuses on the strategic integration of PID controllers to harness their unparalleled precision and adaptability in controlling complex systems. Below are the key advantages of employing PID controllers in our endeavors:
+Project Vision focuses on the strategic integration of PID controllers to harness their unparalleled precision and adaptability in controlling complex systems. Below are the key advantages of employing PID controllers in autonomous systems:
+    
+▸ <code>Precision Engineering:</code> Essential for autonomous systems, PID controllers ensure precise navigation and positioning, reducing errors and enhancing accuracy in unpredictable environments.
 
-<b>▸ Precision Engineering:</b> PID controllers are instrumental in systems where high fidelity and accuracy are paramount, enabling precise process control and minimizing steady-state errors for exceptional calibration.
+▸ <code>Dynamic Stability:</code> They provide stability in rapidly changing conditions, essential for autonomous vehicles to adapt to sudden obstacles or shifts in terrain, ensuring safe and reliable operation.
 
-<b>▸ Dynamic Stability:</b> These controllers are essential for stabilizing a system's dynamic response, mitigating oscillations, and reducing overshoot, thus ensuring consistent and reliable operation of the control mechanism.
+▸ <code>Adaptive Flexibility:</code> With adaptable control parameters, PID controllers can be fine-tuned for various autonomous applications, from urban driving to off-road exploration, offering versatile performance.
 
-<b>▸ Adaptive Flexibility:</b> The versatility of PID control loops is unmatched, allowing for precision tuning of their components to expertly cater to a vast array of industrial and technological applications.
+▸ <code>Operational Efficiency:</code> By optimizing system responses, PID controllers contribute to energy-efficient operation of autonomous vehicles, crucial for extending battery life and reducing environmental impact.
 
-<b>▸ Operational Efficiency:</b> Optimizing control efforts leads to enhanced energy efficiency of systems with PID controllers, resulting in substantial cost savings and resource optimization, which is critical in sustainable operations.
+▸ <code>Design Simplicity:</code> Their straightforward implementation makes PID controllers an accessible technology for enhancing the control systems of autonomous vehicles, even with limited engineering resources.
 
-<b>▸ Design Simplicity:</b> Despite their advanced capabilities, PID controllers boast a user-friendly design that simplifies implementation, making them a cost-efficient solution for complex control issues.
-
-<b>▸ Universal Application:</b> With a legacy of reliability, PID controllers have become a staple in the automation industry, offering robust performance under a variety of challenging environmental and operational conditions.
+▸ <code>Universal Application:</code> The wide applicability of PID controllers supports diverse functionalities in autonomous systems, from speed control to obstacle avoidance, proving their essential role in the future of transportation.
 </p> <br> <br>
 
-
-
-<!------ HOW ------><!------ HOW ------><!------ HOW ------>
+<!------ HOW ------>
 <p align="center">
-    <img src="how.png" alt="How we implemented the project" width="600"/>
+    <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
