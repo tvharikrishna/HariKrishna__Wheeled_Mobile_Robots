@@ -127,7 +127,7 @@ The accompanying images serve as a detailed guide to the Pure Pursuit controller
 <!------ Result and Analysis ------>
 <p align="center"><h2>💠 Results & Analysis </h2></p>
 <p align='justify'>
-▸ By employing a <code>Binary Tree search algorithm</code> for waypoint navigation, I achieved over 99% accuracy in my path tracking tests.
+▸ By employing a <strong><code>Binary Tree search algorithm</code></strong> for waypoint navigation, I achieved over 99% accuracy in my path tracking tests.
 
 ▸ The Binary Search Tree (BST) algorithm significantly enhances the efficiency of waypoint look-ahead, allowing for rapid searches and updates. This is crucial for autonomous navigation where high accuracy is essential.
 
