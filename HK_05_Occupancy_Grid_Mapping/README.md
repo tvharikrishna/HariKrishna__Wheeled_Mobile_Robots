@@ -103,16 +103,13 @@ The below images represents a visual representation of Occupancy Grid Mapping an
 <p>Dilation is the complementary process that expands the boundaries of the foreground object, often used to fill in small holes and connect disjointed elements in an image. By applying dilation, the map's structural integrity is enhanced, ensuring that essential navigational features are pronounced and easily interpretable.</p>
 
 <p align="center">
-  <img src="readme_data/refinement_map_1.jpg" alt="Refinement Map 1" width="200"/>
-  <img src="readme_data/refinement_map_3.jpg" alt="Refinement Map 3" width="200"/>
-  <img src="readme_data/refinement_map_4.jpg" alt="Refinement Map 4" width="200"/>
-  <img src="readme_data/refinement_map_5.jpg" alt="Refinement Map 5" width="200"/>
-</p>
-
+  <img src="readme_data/refinment_map_1.jpg" alt="Refinement Map 1" width="200"/>
+  <img src="readme_data/refinment_map_2.jpg" alt="Refinement Map 3" width="200"/>
+  <img src="readme_data/refinment_map_3.jpg" alt="Refinement Map 4" width="200"/>
+  <img src="readme_data/refinment_map_4.jpg" alt="Refinement Map 5" width="200"/>
+</p> <hr> <br>
 
 <!------ End Image ------><!------ End Image ------><!------ End Image ------>
 <p align="center">
-    <img src="HK_Endquote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
 </p>
-
-
