@@ -100,7 +100,7 @@ The PID controller works by calculating an 'error value' as the difference betwe
 <p align="center"><h2>💠 Implementation of PID Steering Control </h2></p>
 
 <p align="center">
-  <img src="readme_data/project_logo.png" alt="Project Logo Cover" width="1500"/>
+  <img src="readme_data/project_obs_1.png" alt="Project Logo Cover" width="1500"/>
 </p>
 
 <p align='justify'>
@@ -138,24 +138,27 @@ Finally, use the computed control inputs to steer the robot along the path. Moni
 <!------ Why to tune PID ------>
 <p align="center"><h2>💠 Why Do We Need to Tune a PID Controller</h2></p>
 <p align='justify'>
-Tuning a PID controller is an essential step in any control system that employs feedback. Proper tuning ensures that the system responds to setpoint changes and disturbances rapidly and with minimal overshoot. Untuned or poorly tuned PID controllers can lead to inefficient operation, instability, excessive oscillation, or slow response times, all of which can affect the performance and safety of the controlled system. Effective tuning optimizes the control actions of the PID controller, ensuring it works in harmony with the dynamics of the process it is controlling. It is a delicate balance: the proportional term must be high enough to respond to changes, the integral term must correct any offset without causing instability, and the derivative term must predict and smooth the response. Without tuning, the controller cannot fulfill its role of maintaining the desired level of process control.
+▸ Tuning a PID controller is an essential step in any control system that employs feedback. Proper tuning ensures that the system responds to setpoint changes and disturbances rapidly and with minimal overshoot. Untuned or poorly tuned PID controllers can lead to inefficient operation, instability, excessive oscillation, or slow response times, all of which can affect the performance and safety of the controlled system. Effective tuning optimizes the control actions of the PID controller, ensuring it works in harmony with the dynamics of the process it is controlling.
+    
+▸ It is a delicate balance: the proportional term must be high enough to respond to changes, the integral term must correct any offset without causing instability, and the derivative term must predict and smooth the response. Without tuning, the controller cannot fulfill its role of maintaining the desired level of process control.
 </p>
 
 <!------ why to tune PID ------>
 <p align="center"><h2>💠 PID Tuning Methods</h2></p>
 <p align='justify'>
 ▸ Manual Tuning
+    
 ▸ Trial and Error Tuning
+
 ▸ Ziegler-Nichols Tuning Method
+
 ▸ Cohen-Coon Tuning Method
+
 ▸ Kappa-Tau Tuning Method
 
-For a deeper understanding and guidance on PID tuning, consider visiting [PID Tuning Methods](https://www.incatools.com/pid-tuning/pid-tuning-methods/). This resource provides insights and practical advice on how to apply these methods to achieve a well-tuned control system.
+For a deeper understanding and guidance on PID tuning, consider visiting [PID Tuning Methods](https://www.incatools.com/pid-tuning/pid-tuning-methods/). This resource provides insights and practical advice on how to apply these methods to achieve a well-tuned control system. </p> <hr> <br>
 
-</p>
-    
-<!------ End Image ------><!------ End Image ------><!------ End Image ------>
+<!------ End Image ------>
 <p align="center">
-    <img src="HK_Endquote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/HK_rosquote.png" alt="Alt text for your image" width="1500"/>
 </p>
-
