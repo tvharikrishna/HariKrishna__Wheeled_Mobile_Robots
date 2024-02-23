@@ -1,3 +1,104 @@
+<!------ Copyrights ------>
+<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
+<p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
+
+<!------ PROJECT TITLE ------>
+<p align="center">
+    <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
+</p> <br> <br>
+
+<!------ WHAT ------><!------ WHAT ------><!------ WHAT ------>
+<p align="center">
+    <img src="what.png" alt="Why we chose this project" width="600"/>
+</p>
+
+<p align="center"><h1>🎀 Essence of the Project</h1></p>
+<p align='justify'>
+▸ ADD TEXT HERE
+▸ ADD TEXT HERE 
+▸ ADD TEXT HERE 
+</p>
+
+<p align="center">
+  <a href="ADD_LINK_HERE">
+    <img src="https://img.shields.io/badge/My Project Video-ADD PROJECT NAME HERE-blue" alt="Video" width="337" height="30"/>
+  </a>
+</p> <br> <br>
+
+<!------ WHY ------><!------ WHY ------><!------ WHY ------>
+<p align="center">
+    <img src="why.png" alt="What the project accomplishes" width="600"/>
+</p>
+
+<p align="center"><h1>🎯 Project Vision</h1></p>
+<p style="text-align: justify;">
+▸ ADD TEXT HERE
+▸ ADD TEXT HERE 
+▸ ADD TEXT HERE 
+</p> <br> <br>
+
+<!------ HOW ------><!------ HOW ------><!------ HOW ------>
+<p align="center">
+    <img src="how.png" alt="How we implemented the project" width="600"/>
+</p>
+
+<p align="center"><h1>🪓Project Implementation</h1></p>
+<p><h2>💠 Software Design & Tools </h2></p>
+<p align='justify'>
+The project is developed using ____,
+</p>
+
+<!------ Deployment and Testing ------><!------ Deployment and Testing ------><!------ Deployment and Testing ------>
+<p align="center"><h2>💠 Deployment and Testing </h2></p>
+<p align='justify'>
+▸ ADD TEXT HERE
+▸ ADD TEXT HERE 
+▸ ADD TEXT HERE 
+</p>
+
+<!------ Result and Analysis ------><!------ Result and Analysis ------><!------ Result and Analysis ------>
+<p align="center"><h2>💠 Results & Analysis </h2></p>
+<p align='justify'>
+▸ ADD TEXT HERE
+▸ ADD TEXT HERE 
+▸ ADD TEXT HERE 
+</p>
+
+<!------ End Image ------><!------ End Image ------><!------ End Image ------>
+<p align="center">
+    <img src="HK_Endquote.png" alt="Alt text for your image" width="1500"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">PID Steering Controller for Mobile Robots &amp; Self Driving Cars</h1>
 
 <p align="center">
