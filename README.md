@@ -141,5 +141,5 @@ This repository documents my comprehensive journey through diverse projects in a
 <hr>
 
 <p align="center">
-    <img src="readme_data/hk_rosquote.png" alt="Inspirational quote on robotics" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="Inspirational quote on robotics" width="1500"/>
 </p>
