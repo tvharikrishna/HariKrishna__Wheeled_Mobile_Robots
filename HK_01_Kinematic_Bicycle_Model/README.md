@@ -23,8 +23,6 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
   </a>
 </p>
 
-
-
 <br> <br>
 
 <!------ WHY ------>
@@ -34,15 +32,17 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-▸ The Bicycle Kinematic Model is pivotal in autonomous driving and robotics for precise movement planning and execution.
+The project harnesses the Kinematic Bicycle Model to refine movement planning and execution in autonomous driving and robotics. This approach provides enhanced control over motion dynamics, crucial for the sophisticated demands of modern autonomous systems. Here are the detailed advantages of applying the Kinematic Bicycle Model in the development of autonomous vehicles and mobile robotics:
 
-▸ It converts complex vehicle dynamics into a simpler model for trajectory prediction from steering commands.
+▸ <code> Precision Movement Planning:</code> It is crucial for precise motion planning in autonomous robotics, offering a balance between computational simplicity and movement accuracy.
 
-▸ Essential for path planning and control, it predicts vehicle or robot future positions for smooth navigation and path adherence.
+▸ <code> Trajectory Simplification:</code> The model simplifies the prediction of vehicle trajectories, transforming steering commands into actionable paths for efficient navigation.
 
-▸ Optimizes trajectories for energy-efficient routing, extending battery life and reducing energy use.
+▸ <code> Path Planning Optimization:</code> Fundamental in path planning, it ensures smooth navigation and strict adherence to designated routes, enhancing the algorithmic efficiency.
 
-▸ Enhances safety by enabling systems to react to unexpected obstacles or changes, minimizing accident risks.
+▸ <code> Energy Efficiency:</code> By optimizing trajectories, it promotes energy-efficient routing, crucial for extending battery life in electric autonomous vehicles.
+
+▸ <code> Safety Enhancements:</code> The model enhances safety protocols by enabling systems to preemptively react to sudden changes in the driving environment, thereby minimizing accident risks.
 </p> <br> <br>
 
 <!------ HOW ------>
