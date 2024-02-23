@@ -30,7 +30,7 @@ Implementation of the RANSAC algorithm to refine LiDAR data for autonomous vehic
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-Project Vision is geared towards harnessing the RANSAC algorithm to optimize LiDAR data analysis for autonomous systems. This initiative is pivotal in sculpting a reliable navigational pathway, ensuring that vehicles and robotics operate with heightened accuracy and safety. Below, we delve into the critical advantages that this implementation brings to the field of autonomous navigation.
+Project is geared towards harnessing the RANSAC algorithm to optimize LiDAR data analysis for autonomous systems. This initiative is pivotal in sculpting a reliable navigational pathway, ensuring that vehicles and robotics operate with heightened accuracy and safety. Below, we delve into the critical advantages that this implementation brings to the field of autonomous navigation.
 
 ▸ <code>Advanced Outlier Detection:</code> Utilizing RANSAC on LiDAR data to adeptly identify and remove outliers, thereby preserving only the most trustworthy data for model estimation.
 
@@ -40,15 +40,8 @@ Project Vision is geared towards harnessing the RANSAC algorithm to optimize LiD
 </p> 
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td><img src="ransac_gif_1.gif" alt="RANSAC Process" width="750"/></td>
-      <td><img src="ransac_gif_2.gif" alt="RANSAC Visualization" width="750"/></td>
-    </tr>
-  </table>
-</p>
-
-<br> <br>
+  <img src="readme_data/ransac_gif_1.gif" alt="RANSAC Process" width="800"/>
+</p> <br> <br>
 
 <!------ HOW ------>
 <p align="center">
@@ -58,7 +51,7 @@ Project Vision is geared towards harnessing the RANSAC algorithm to optimize LiD
 <p align="center"><h1>🪓Project Implementation</h1></p>
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
-The project's execution is centered on the strategic application of the RANSAC algorithm within the ROS framework, optimizing the extraction and utilization of LiDAR data for autonomous navigation. With meticulous integration of advanced computational tools and simulation environments, I established a robust methodology for enhancing the data processing pipeline. This includes scripting in rospy to facilitate real-time data analysis and employing simulation platforms for testing and refining our models. The outcome is a sophisticated system poised to significantly advance the field of mobile robotics and autonomous vehicle navigation. </p>
+The project's execution is centered on the strategic application of the RANSAC algorithm within the ROS framework, optimizing the extraction and utilization of LiDAR data for autonomous navigation. With meticulous integration of advanced computational tools and simulation environments, I established a robust methodology for enhancing the Lidar data processing pipeline. This includes scripting in rospy to facilitate real-time data analysis from the lidar and employing simulation platforms for testing and refining our models. The outcome is a sophisticated system poised to significantly advance the field of mobile robotics and autonomous vehicle navigation. </p>
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
@@ -70,23 +63,28 @@ The project's execution is centered on the strategic application of the RANSAC a
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
 <br>
 
-<!------ Deployment and Testing ------><!------ Deployment and Testing ------><!------ Deployment and Testing ------>
+<!------ Deployment and Testing ------>
 <p align="center"><h2>💠 Deployment and Testing </h2></p>
-<p align='justify'>
-▸ ADD TEXT HERE
-▸ ADD TEXT HERE 
-▸ ADD TEXT HERE 
+
+<p align="center">
+    <img src="readme_data/project_obs_1.png" alt="Alt text for your image" width="1500"/>
 </p>
 
-<!------ Result and Analysis ------><!------ Result and Analysis ------><!------ Result and Analysis ------>
+<p align="center">
+    <img src="readme_data/project_obs_2.png" alt="Alt text for your image" width="1500"/>
+</p>
+
+<p align="center">
+    <img src="readme_data/project_obs_3.png" alt="Alt text for your image" width="1500"/>
+</p>
+
+<!------ Result and Analysis ------>
 <p align="center"><h2>💠 Results & Analysis </h2></p>
 <p align='justify'>
-▸ ADD TEXT HERE
-▸ ADD TEXT HERE 
-▸ ADD TEXT HERE 
-</p>
+The implementation of the RANSAC algorithm on the LiDAR data has been successful in removing outliers. The refined data now presents a more accurate representation of the environment, allowing for improved navigational decisions and path planning in autonomous systems.
+</p> <hr> <br>
 
 <!------ End Image ------><!------ End Image ------><!------ End Image ------>
 <p align="center">
-    <img src="HK_Endquote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
 </p>
