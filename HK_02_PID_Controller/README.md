@@ -55,8 +55,8 @@ Project Vision focuses on the strategic integration of PID controllers to harnes
 <p align="center"><h1>🪓Project Implementation</h1></p>
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
-The project is developed using ____,
-
+The PID controller is crafted using ROS on Ubuntu and Linux, with Python for scripting. Gazebo simulates autonomous behaviors, while RViz visualizes paths and waypoints, using ROS markers for clear data interpretation. The combination of Numpy, SciPy, and VS Code supports a streamlined framework for autonomous vehicle design and analysis.
+    
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
@@ -66,7 +66,27 @@ The project is developed using ____,
 <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
+</p>
 
+<!------ Working ------>
+<p align="center"><h2>💠 Working of PID Controllers </h2></p>
+<p align='justify'>
+The PID (Proportional-Integral-Derivative) controller is a control loop feedback mechanism widely used in industrial control systems. It adjusts the output to bring a process to its desired setpoint or target. Here’s a brief explanation of how each component works:
+
+<p align="center">
+  <img src="readmedata/pid_diagram.png" alt="Project Logo Cover" width="1500"/>
+</p>
+
+### <strong> • Proportional (P) Term: </strong> 
+This is the reactive part of the controller. It produces an output value that is proportional to the current error value the difference between the desired setpoint and the current process variable. A higher proportional gain results in a larger output response to the error, which can improve the system's response time but also increase the risk of overshooting the setpoint.
+
+### <strong>  • Integral (I) Term: </strong> 
+This component sums the error over time and integrates it with respect to the past errors. The integral term accelerates the movement of the process towards the setpoint and eliminates the residual steady-state error that occurs with a pure proportional controller. However, too much integral action can lead to instability and oscillations.
+
+### <strong>  • Derivative (D) Term: </strong> 
+The derivative term predicts system behavior and thus can provide a damping effect. It is a measure of how quickly the process variable is changing and effectively slows down the output to prevent overshooting. It can improve stability and settle time.
+
+The PID controller works by calculating an 'error value' as the difference between a measured process variable and a desired setpoint. The controller attempts to minimize the error by adjusting the process control inputs. The combination of these three terms provides control action designed to eliminate the error by adjusting process control variables such as the throttle, the steering angle, or the valve position in a system.
 </p>
 
 <!------ Deployment and Testing ------><!------ Deployment and Testing ------><!------ Deployment and Testing ------>
@@ -125,22 +145,7 @@ The project is developed using ____,
 
 ## ▶ Working of PID Controller:
 
-The PID (Proportional-Integral-Derivative) controller is a control loop feedback mechanism widely used in industrial control systems. It adjusts the output to bring a process to its desired setpoint or target. Here’s a brief explanation of how each component works:
 
-<p align="center">
-  <img src="data/pid_diagram.png" alt="Project Logo Cover" width="1500"/>
-</p>
-
-### <strong> • Proportional (P) Term: </strong> 
-This is the reactive part of the controller. It produces an output value that is proportional to the current error value the difference between the desired setpoint and the current process variable. A higher proportional gain results in a larger output response to the error, which can improve the system's response time but also increase the risk of overshooting the setpoint.
-
-### <strong>  • Integral (I) Term: </strong> 
-This component sums the error over time and integrates it with respect to the past errors. The integral term accelerates the movement of the process towards the setpoint and eliminates the residual steady-state error that occurs with a pure proportional controller. However, too much integral action can lead to instability and oscillations.
-
-### <strong>  • Derivative (D) Term: </strong> 
-The derivative term predicts system behavior and thus can provide a damping effect. It is a measure of how quickly the process variable is changing and effectively slows down the output to prevent overshooting. It can improve stability and settle time.
-
-The PID controller works by calculating an 'error value' as the difference between a measured process variable and a desired setpoint. The controller attempts to minimize the error by adjusting the process control inputs. The combination of these three terms provides control action designed to eliminate the error by adjusting process control variables such as the throttle, the steering angle, or the valve position in a system.
 
 ---------------------------------------------
 
