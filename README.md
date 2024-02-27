@@ -72,7 +72,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 
 <h1>🔻 Repository Overview</h1>
 <p align='justify'>
-This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications and experiments. </p> <br>
+This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications. </p> <br>
 
 <!-- Markdown tables are automatically styled by GitHub and cannot be manually centered -->
 <div align="center">

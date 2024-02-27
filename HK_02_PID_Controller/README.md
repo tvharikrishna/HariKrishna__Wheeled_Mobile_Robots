@@ -64,7 +64,8 @@ The PID controller is crafted using ROS on Ubuntu and Linux, with Python for scr
 <img src="https://img.shields.io/badge/Gazebo-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/>
 <img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white" alt="SciPy" style="height: 25px;"/> &nbsp; 
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white" alt="SciPy" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
 </p> <br>
 
