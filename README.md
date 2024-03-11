@@ -140,7 +140,7 @@ The robot chassis is made of an aluminum alloy chassis, equipped with 4 Mecanum 
 <img src="https://img.shields.io/badge/SSH-4D4D4D.svg?&style=flat-square&logo=terminal&logoColor=white" alt="SSH" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/PuTTY-007ACC.svg?&style=flat-square&logo=terminal&logoColor=white" alt="PuTTY" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VNC%20Viewer-ED1C24.svg?&style=flat-square&logo=remote-desktop&logoColor=white" alt="VNC Viewer" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 25px;"/> &nbsp;
