@@ -109,5 +109,5 @@ The core of TOF LiDAR's functionality lies in its ability to discern the phase d
 
 <!------ End Image ------>
 <p align="center">
-    <img src="hkbot_end.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/HKbot_endquote.png" alt="Alt text for your image" width="1500"/>
 </p>
