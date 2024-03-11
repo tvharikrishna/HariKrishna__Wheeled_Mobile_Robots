@@ -31,7 +31,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 
 </div> <br>
 
-<h1>🔻 Repository Simulators</h1>
+<h1>🔻 Repository Details</h1>
 
 <p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both of these powerful tools are instrumental for robotics simulation, each offering unique advantages that cater to different aspects of robotics development and testing.</p> <br>
 
