@@ -4,6 +4,31 @@
 <p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
 <p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p>
 
+<!-- Repo Details -->
+<h1 align="left">🔻 Repository Details</h1>
+<table align="center">
+<thead>
+<tr>
+<th align="center">Naming Prefix</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">HK_Isaac</td>
+<td align="center">Simulations made in Isaac</td>
+</tr>
+<tr>
+<td align="center">HK_BOT</td>
+<td align="center">Custom made mobile robot</td>
+</tr>
+<tr>
+<td align="center">HK_ROS</td>
+<td align="center">Simulation made in ROS/Gazebo</td>
+</tr>
+</tbody>
+</table>
+
 <!-- Section: What is ROS? -->
 <h1>🔻 What is Robot Operating System (ROS)?</h1>
 <p align='justify'>
@@ -105,51 +130,6 @@ The robot chassis is made of an aluminum alloy chassis, equipped with 4 Mecanum 
 </div>
 <br>
 
-
-
-
-
-
-<h1>🔻 Repository Details</h1>
-
-<p>The table below introduces the simulators used in this repository: Gazebo and NVIDIA Isaac Sim. Both of these powerful tools are instrumental for robotics simulation, each offering unique advantages that cater to different aspects of robotics development and testing.</p> <br>
-
-<!-- HTML table centered -->
-<div align="center">
-    <table>
-        <tr>
-            <th>Gazebo</th>
-            <th>NVIDIA Isaac</th>
-        </tr>
-        <tr>
-            <td><img src="readme_data/gazebo_logo.png" width="200"></td>
-            <td><img src="readme_data/isaac_logo.png" width="300"></td>
-        </tr>
-        <tr>
-            <td>General Robotics Simulation</td>
-            <td>Commercial Platform with a Focus on AI</td>
-        </tr>
-        <tr>
-            <td>Supports Multiple Physics Engines</td>
-            <td>Advanced Simulation for AI Robots</td>
-        </tr>
-        <tr>
-            <td>Good Graphics Rendering</td>
-            <td>Photorealistic Simulation</td>
-        </tr>
-        <tr>
-            <td>Seamless Integration with ROS</td>
-            <td>Physics and AI Integration</td>
-        </tr>
-        <tr>
-            <td>Open Source</td>
-            <td>Optimized for NVIDIA Hardware</td>
-        </tr>
-    </table>
-</div>
-<br>
-
-
 <h1>🔻 Tools & Technologies</h1>
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
@@ -168,6 +148,7 @@ The robot chassis is made of an aluminum alloy chassis, equipped with 4 Mecanum 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" style="height: 25px;"/> &nbsp;
+
 <hr>
 
 <p align="center">
