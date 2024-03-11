@@ -15,16 +15,16 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">HK_Isaac</td>
-<td align="center">Simulations made in Isaac</td>
+<td align="center">HKIsaac</td>
+<td align="center">Simulation made in ROS-Gazebo</td>
 </tr>
 <tr>
-<td align="center">HK_BOT</td>
-<td align="center">Custom made mobile robot</td>
+<td align="center">HKROS</td>
+<td align="center">Simulations made in Nvidia Isaac</td>
 </tr>
 <tr>
-<td align="center">HK_ROS</td>
-<td align="center">Simulation made in ROS/Gazebo</td>
+<td align="center">HKBOT</td>
+<td align="center">Hands-on Custom made mobile robot</td>
 </tr>
 </tbody>
 </table>
