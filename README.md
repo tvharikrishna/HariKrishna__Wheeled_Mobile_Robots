@@ -8,12 +8,12 @@
 <h1>🔻 What is Robot Operating System (ROS)?</h1>
 <p align='justify'>
 The Robot Operating System (ROS) is an exceptionally powerful set of tools and software libraries designed to assist developers in building and controlling sophisticated robots. It acts as a crucial bridge between robot hardware and software, efficiently facilitating communication and the seamless integration of complex software algorithms.
-</p> <br>
+</p> <br> <br>
 
 <!-- ROS Logo -->
 <p align="center">
     <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="300"/>
-</p>
+</p> <br>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
 <h1>🔻 What are Autonomous Mobile Robots?</h1>
@@ -30,6 +30,85 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 | AMMR | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
 
 </div> <br>
+
+<!-- what is HKBOT -->
+<h1>🔻 What is HKBOT?</h1>
+<p align="justify">
+<p align='justify'>
+▸ HK Bot is an autonomous mobile robot which I have engineered with a deep passion for robotics. It is a sophisticated piece of technology that stands at the intersection of autonomous mobility and manipulative dexterity. </p>
+
+<!-- HKBOT Image -->
+<p align="center">
+    <img src="readme_data/hkbot_title.png" alt="ROS system architecture diagram" width="1500"/>
+</p> <br>
+
+<p align='justify'>
+▸ This robot is designed for all applications related to Autonomous Mobile Robots <code>(AMRs)</code> and Autonomous Mobile Manipulation Robots <code>(AMMRs)</code>, leveraging state-of-the-art sensor technologies. With its advanced capabilities, the HK Bot can navigate, interact with the environment. The integration of advanced sensors and manipulators allows it to perform complex tasks autonomously, making it a versatile tool for the automation industry.
+</p>  <br>
+
+<!-- HKBOT Image -->
+<p align="center">
+    <img src="readme_data/hkbot_poses.png" alt="ROS system architecture diagram" width="1500"/>
+</p>
+
+<!-- Components Details -->
+<h2>💠Nvidia Jetson Nano</h2>
+<p align='justify'>
+The Nvidia Jetson Nano is a small, powerful computer designed specifically for <code>Robotics and AI</code>. It delivers the compute performance to run modern AI workloads at unprecedented size, power, and cost.</p>
+
+<h2>💠YDLidar</h2>
+<p align='justify'>
+YDLidar is a high-performance lidar specially built for ROS. It adopts the TOF ranging method, can resist up to 100KLux strong light radiation, supports both indoor and outdoor mapping and navigation, the measurement radius can reach 30m, and the measurement blind area is only 5cm. </p>
+
+<h2>💠ORBBEC Astra Pro Plus Depth Camera</h2>
+<p align='justify'>
+The ORBBEC Astra Pro Plus is a compact, reliable depth camera that provides high-resolution 3D scanning, gesture recognition, and tracking, making it a perfect choice for autonomous robotics where environmental perception and interaction are required. </p>
+
+<h2>💠6DOF Robotic Arm</h2>
+<p align='justify'>
+The robotic arm is built with 6 serial bus servos with repeat position accuracy of ± 0.5mm. With the robotic arm as the central axis, it can grasp objects within a radius of 30cm. It can handle objects of less than 500g, and provides the MoveIt ROS package for effective manipulation. </p>
+
+<h2>💠Mecanum Wheels with Pendulum Suspension</h2>
+<p align='justify'>
+The robot chassis is made of an aluminum alloy chassis, equipped with 4 Mecanum wheels and a pendulum suspension chassis design, which can make the robot have characteristics of a compact structure, flexible movement, and powerful maneuverability. The pendulum suspension chassis can allow HK Bot to adapt to uneven ground.</p> 
+
+<br>
+<!-- Component List Table -->
+<!-- All components list -->
+<div align="center">
+<table>
+<tr>
+    <td>Taillights</td>
+    <td>CAN Bus Interface</td>
+    <td>9-axis IMU</td>
+    <td>USB Camera</td>
+</tr>
+<tr>
+    <td>YD Lidar TG15</td>
+    <td>Nvidia Jetson Nano</td>
+    <td>End Effector</td>
+    <td>RP-SMA jacks</td>
+</tr>
+<tr>
+    <td>6DOF Robotic Arm</td>
+    <td>520 Encoder Motors</td>
+    <td>Astra Depth Camera</td>
+    <td>USBHub Board</td>
+</tr>
+<tr>
+    <td>Anti-Collision Beam</td>
+    <td>9600mAh Lithium Battery</td>
+    <td>ROS Expansion Board</td>
+    <td>Heat Sink w/ PWM Fan</td>
+</tr>
+</table>
+</div>
+<br>
+
+
+
+
+
 
 <h1>🔻 Repository Details</h1>
 
@@ -70,57 +149,6 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 </div>
 <br>
 
-<h1>🔻 Repository Overview</h1>
-<p align='justify'>
-This repository documents my comprehensive journey through diverse projects in autonomous mobile robotics, including simulations performed using ROS, NVIDIA Isaac Sim, and Gazebo. Below are my project areas of focus, showcasing various applications. </p> <br>
-
-<!-- Markdown tables are automatically styled by GitHub and cannot be manually centered -->
-<div align="center">
-    
-| Autonomous Mapping Building | SLAM | Path Planning Algorithms |
-|--------------------|--------------------------|--------------------------|
-| Motion Control Algorithms           | Sensor Fusion Algorithms            | Environmental Modeling             |
-| Robotics Manipulations | Robotics Perceptions (Non-AI/AI)                 | Navigation and Localization                  |
-
-</div>
-
-<br>
-
-<h1>🔻 Valuable Resources</h1> <br>
-
-<!-- Last table without centering as per request -->
-<div align="center">
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Recommended Textbook for Mobile Robots</td>
-    <td>
-      <a href="https://mitpress.mit.edu/9780262015356/introduction-to-autonomous-mobile-robots/">
-        <img src="https://img.shields.io/badge/Book-red?logo=book&style=flat-square" alt="Book Link" style="height: 25px;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>NVIDIA Documentation</td>
-    <td>
-      <a href="https://docs.omniverse.nvidia.com/isaacsim/latest/index.html">
-        <img src="https://img.shields.io/badge/Nvidia%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="Nvidia Isaac" style="height: 25px;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Gazebo Documentation</td>
-    <td>
-      <a href="https://gazebosim.org/home">
-        <img src="https://img.shields.io/badge/Gazebo-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
 
 <h1>🔻 Tools & Technologies</h1>
 
@@ -129,6 +157,9 @@ This repository documents my comprehensive journey through diverse projects in a
 <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20SIM-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Gazebo-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/SSH-4D4D4D.svg?&style=flat-square&logo=terminal&logoColor=white" alt="SSH" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/PuTTY-007ACC.svg?&style=flat-square&logo=terminal&logoColor=white" alt="PuTTY" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/VNC%20Viewer-ED1C24.svg?&style=flat-square&logo=remote-desktop&logoColor=white" alt="VNC Viewer" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 25px;"/> &nbsp;
@@ -137,7 +168,6 @@ This repository documents my comprehensive journey through diverse projects in a
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" style="height: 25px;"/> &nbsp;
-
 <hr>
 
 <p align="center">
