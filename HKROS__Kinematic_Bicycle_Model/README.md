@@ -120,7 +120,7 @@ The project is developed using the Robot Operating System (ROS), facilitating co
     <img src="readme_data/project_obs_4.png" alt="Why we chose this project" width="1500"/>
 </p> <hr> <br>
 
-<!------ Smile More :) ------>
+<!------ Smile More ------>
 <p align="center">
     <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
 </p>
