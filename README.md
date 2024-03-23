@@ -60,7 +60,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 <h1>🔻 What is HKBOT?</h1>
 <p align="justify">
 <p align='justify'>
-▸ HK Bot is an autonomous mobile robot which I have engineered with a deep passion for robotics. It is a sophisticated piece of technology that stands at the intersection of autonomous mobility and manipulative dexterity. </p>
+▸ HK Bot is an autonomous mobile robot which I have engineered with a deep passion for Robotics & AI. It is a sophisticated piece of technology that stands at the intersection of autonomous mobility and manipulative dexterity. </p>
 
 <!-- HKBOT Image -->
 <p align="center">
