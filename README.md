@@ -16,11 +16,11 @@
 <tbody>
 <tr>
 <td align="center"><strong>HKROS</strong></td>
-<td align="center">Simulation made in ROS-Gazebo</td>
+<td align="center">Simulations in ROS-Gazebo</td>
 </tr>
 <tr>
 <td align="center"><strong>HKIsaac</strong></td>
-<td align="center">Simulation made in Nvidia Isaac</td>
+<td align="center">Simulations in Nvidia Isaac</td>
 </tr>
 <tr>
 <td align="center"><strong>HKBOT</strong></td>
@@ -60,7 +60,7 @@ The Robot Operating System (ROS) is an exceptionally powerful set of tools and s
 <h1>🔻 What is HKBOT?</h1>
 <p align="justify">
 <p align='justify'>
-▸ HK Bot is an autonomous mobile robot which I have engineered with a deep passion for robotics. It is a sophisticated piece of technology that stands at the intersection of autonomous mobility and manipulative dexterity. </p>
+▸ HK Bot is an autonomous mobile robot which I have engineered with a deep passion for Robotics & AI. It is a sophisticated piece of technology that stands at the intersection of autonomous mobility and manipulative dexterity. </p>
 
 <!-- HKBOT Image -->
 <p align="center">
