@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td align="center"><strong>HKROS</strong></td>
-<td align="center">Simulations in ROS-Gazebo</td>
+<td align="center">Simulations in Gazebo</td>
 </tr>
 <tr>
 <td align="center"><strong>HKIsaac</strong></td>
