@@ -5,12 +5,12 @@
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/project_title.png" alt="project title" width="1111"/>
-</p> <br> <br>
+</p> <hr> <br>
 
-<!------ WHAT ------><!------ WHAT ------><!------ WHAT ------>
+<!------ WHAT ------>
 <p align="center">
     <img src="readme_data/what.png" alt="what section" width="600"/>
-</p>
+</p> 
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_lidar-pointcloud-ros-activity-7074351404991008769-n0g3/?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-Obstacle Evader Robot-blue" alt="Video" width="337" height="30"/>
   </a>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -40,9 +40,9 @@ The project is dedicated to advancing obstacle avoidance technology, a cornersto
 ▸ <code>Real-time Decision Making:</code> This technology empowers autonomous machines to instantly adapt to new obstacles, ensuring efficient and reliable task execution for services like automated delivery or emergency aid.
 
 ▸ <code>Human Intervention Reduction:</code> By leveraging obstacle avoidance, the need for human oversight decreases, pushing the boundaries in autonomous driving and contributing to fewer traffic incidents and enhanced road safety.
-</p> <br> <br>
+</p> <hr> <br>
 
-<!------ HOW ------><!------ HOW ------><!------ HOW ------>
+<!------ HOW ------>
 <p align="center">
     <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
@@ -68,7 +68,7 @@ The project is developed using a robust and versatile tech stack, comprising Ubu
 YdLiDAR is a type of Light Detection and Ranging (LiDAR) sensor designed for use in robotics and automation. LiDAR sensors measure distances by illuminating targets with laser light and measuring the reflection with a sensor. YdLiDAR sensors are known for their cost-effectiveness and compact size, making them suitable for applications like obstacle avoidance, area mapping, and robot navigation where precise distance measurements and environmental awareness are crucial. </p> <br>
 
 <p align="center">
-  <img src="readme_data/YDLidar.png" alt="YdLidar Sensor" width="220"/>
+  <img src="readme_data/ydlidar.png" alt="YdLidar Sensor" width="220"/>
 </p>
 
 <p align="center"><h2>▸ How Does Lidar Work:</h2></p>
