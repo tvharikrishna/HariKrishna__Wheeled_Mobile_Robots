@@ -5,7 +5,7 @@
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/ttitle.png" alt="Why we chose this project" width="1500"/>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ WHAT ------>
 <p align="center">
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_occupancygrid-gridmapping-mappingros-activity-7122201619743535105-FRid?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-Occupancy Grid Mapping-blue" alt="Video" width="337" height="30"/>
   </a>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -39,8 +39,7 @@ Project Vision is geared towards developing a comprehensive occupancy grid mappi
 ▸ <code>Morphological Enhancements:</code> By applying advanced morphological operations, the mapping accuracy is significantly enhanced, smoothing out noise and refining the grid for improved navigational decisions.
 
 ▸ <code>Navigational Efficacy:</code> This mapping approach solidifies the robot's navigation framework, optimizing its path planning capabilities and enabling effective obstacle avoidance for safer and more reliable autonomy.
-</p> <br> <br>
-
+</p> <hr> <br>
 
 <!------ HOW ------>
 <p align="center">
