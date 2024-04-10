@@ -5,7 +5,7 @@
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ WHAT ------>
 <p align="center">
@@ -21,7 +21,7 @@ Implementation of the RANSAC algorithm to refine LiDAR data for autonomous vehic
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_ransac-lidar-rosprojects-activity-7122595509831114753-3Bn0?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-Lidar Optimization using RANSAC-blue" alt="Video" width="420" height="30"/>
   </a>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -41,7 +41,7 @@ Project is geared towards harnessing the RANSAC algorithm to optimize LiDAR data
 
 <p align="center">
   <img src="readme_data/ransac_gif_1.gif" alt="RANSAC Process" width="800"/>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ HOW ------>
 <p align="center">
