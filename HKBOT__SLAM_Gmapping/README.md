@@ -5,9 +5,9 @@
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/project_title.png" alt="project title" width="1111"/>
-</p> <br> <br>
+</p> <hr> <br>
 
-<!------ WHAT ------><!------ WHAT ------><!------ WHAT ------>
+<!------ WHAT ------>
 <p align="center">
     <img src="readme_data/what.png" alt="what section" width="600"/>
 </p>
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_lidar-pointcloud-ros-activity-7074351404991008769-n0g3/?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-Obstacle Evader Robot-blue" alt="Video" width="337" height="30"/>
   </a>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -40,7 +40,7 @@ The project is dedicated to advancing obstacle avoidance technology, a cornersto
 ▸ <code>Real-time Decision Making:</code> This technology empowers autonomous machines to instantly adapt to new obstacles, ensuring efficient and reliable task execution for services like automated delivery or emergency aid.
 
 ▸ <code>Human Intervention Reduction:</code> By leveraging obstacle avoidance, the need for human oversight decreases, pushing the boundaries in autonomous driving and contributing to fewer traffic incidents and enhanced road safety.
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ HOW ------><!------ HOW ------><!------ HOW ------>
 <p align="center">
@@ -105,7 +105,7 @@ The core of TOF LiDAR's functionality lies in its ability to discern the phase d
 <!------ End Image ------>
 <p align="center">
   <img src="readme_data/project_observation_2.png" alt="Project Observation 2" width="1111"/>
-</p> <hr>
+</p> <hr> <br>
 
 <!------ End Image ------>
 <p align="center">

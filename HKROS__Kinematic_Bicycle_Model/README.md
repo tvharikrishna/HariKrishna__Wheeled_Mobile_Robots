@@ -4,7 +4,7 @@
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ WHAT ------>
 <p align="center">
@@ -21,9 +21,7 @@ The Bicycle Kinematic Model block creates a bicycle vehicle model to simulate si
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-autonomousvehicles-mobilerobots-activity-7115334457124900866-LaV_?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-Kinematic Bicycle Model-blue" alt="Video" width="337" height="30"/>
   </a>
-</p>
-
-<br> <br>
+</p> <hr> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -43,7 +41,7 @@ The project harnesses the Kinematic Bicycle Model to refine movement planning an
 ▸ <code> Energy Efficiency:</code> By optimizing trajectories, it promotes energy-efficient routing, crucial for extending battery life in electric autonomous vehicles.
 
 ▸ <code> Safety Enhancements:</code> The model enhances safety protocols by enabling systems to preemptively react to sudden changes in the driving environment, thereby minimizing accident risks.
-</p> <br> <br>
+</p> <hr> <br>
 
 <!------ HOW ------>
 <p align="center">
