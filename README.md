@@ -2,12 +2,12 @@
 
 <!-- Documentation and Read Time -->
 <p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p>
+<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p><br>
 
 <!-- WMR Intro GIF -->
 <p align="center">
-    <img src="readme_data/wmr_intro_gif.png" alt="ROS system architecture diagram" width="300"/>
-</p> <br>
+    <img src="readme_data/wmr_intro_gif.gif" alt="gif" width="1111"/>
+</p>
 
 <!-- Repo Details -->
 <h1 align="left">🔻 Repository Details</h1>
@@ -38,12 +38,7 @@
 <h1>🔻 What is Robot Operating System (ROS)?</h1>
 <p align='justify'>
 The Robot Operating System (ROS) is an exceptionally powerful set of tools and software libraries designed to assist developers in building and controlling sophisticated robots. It acts as a crucial bridge between robot hardware and software, efficiently facilitating communication and the seamless integration of complex software algorithms.
-</p> <br> <br>
-
-<!-- ROS Logo -->
-<p align="center">
-    <img src="readme_data/ros_logo.png" alt="ROS system architecture diagram" width="300"/>
-</p> <br>
+</p>
 
 <!-- Section: What are Wheeled Mobile Robots and Their Types? -->
 <h1>🔻 What are Autonomous Mobile Robots?</h1>
