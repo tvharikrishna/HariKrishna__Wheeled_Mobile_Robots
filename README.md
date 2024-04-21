@@ -128,7 +128,7 @@ The robot chassis is made of an aluminum alloy chassis, equipped with 4 Mecanum 
 </tr>
 </table>
 </div>
-<br> <hr> <br> 
+<br><hr><br><br>
 
 <p align="center">
     <img src="readme_data/hk_quote.png" alt="Inspirational quote on robotics" width="1500"/>
