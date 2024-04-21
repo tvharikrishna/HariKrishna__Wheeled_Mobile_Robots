@@ -6,7 +6,7 @@
 
 <!-- WMR Intro GIF -->
 <p align="center">
-    <img src="readme_data/av_welcome.png" alt="gif" width="1111"/>
+    <img src="readme_data/wmr_welcome.png" alt="gif" width="1111"/>
 </p>
 
 <!-- Repo Details -->
