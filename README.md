@@ -19,16 +19,16 @@ This repository contains a variety of motion planning algorithms tailored for wh
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>HKROS</strong></td>
-<td align="center">Simulations in Gazebo</td>
+<td align="left"><strong>HK_ROS</strong></td>
+<td align="right">Simulations in Gazebo</td>
 </tr>
 <tr>
-<td align="center"><strong>HKIsaac</strong></td>
-<td align="center">Simulations in Nvidia Isaac</td>
+<td align="left"><strong>HK_Isaac</strong></td>
+<td align="right">Simulations in Nvidia Isaac</td>
 </tr>
 <tr>
-<td align="center"><strong>HKBOT</strong></td>
-<td align="center">Hands-on Custom made mobile robot</td>
+<td align="left"><strong>HK_BOT</strong></td>
+<td align="right">Hands-on Custom made mobile robot</td>
 </tr>
 </tbody>
 </table>
