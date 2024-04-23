@@ -19,7 +19,7 @@ This repository contains a variety of motion planning algorithms tailored for wh
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>HK_ROS__</strong></td>
+<td align="left"><strong>HK_Gazebo__</strong></td>
 <td align="right">Simulations in Gazebo</td>
 </tr>
 <tr>
