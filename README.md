@@ -24,7 +24,7 @@ This repository contains a variety of motion planning algorithms tailored for wh
 </tr>
 <tr>
 <td align="left"><strong>HKBOT__</strong></td>
-<td align="right">Hands-on Custom made Mobile Robot</td>
+<td align="right">Hands-on Mobile Robot</td>
 </tr>
 <tr>
 <td align="left"><strong>HKROS__</strong></td>
