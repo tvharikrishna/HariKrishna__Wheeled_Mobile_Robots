@@ -78,7 +78,7 @@ This robot is designed for all applications related to Autonomous Mobile Robots 
 </p>
 
 <p align="center">
-    <img src="readme_data/HK_BOT_Components.png" alt="HK-BOT Components List" width="1500"/>
+    <img src="readme_data/HKBOT_components.png" alt="HK-BOT Components List" width="1500"/>
 </p><hr><br><br>
 
 <p align="center">
