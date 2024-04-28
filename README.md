@@ -58,7 +58,7 @@ This repository contains a variety of motion planning algorithms tailored for wh
   </tr>
 </table>
 
-</div> <br>
+</div><hr><br>
 
 <h1>🔻 What is HKBOT?</h1>
 <p align="justify">
@@ -75,7 +75,7 @@ This robot is designed for all applications related to Autonomous Mobile Robots 
 
 <p align="center">
     <img src="readme_data/hkbot_poses.png" alt="ROS system architecture diagram" width="1500"/>
-</p>
+</p> <hr><br>
 
 <p align="center">
     <img src="readme_data/HKBOT_components.png" alt="HK-BOT Components List" width="1500"/>
