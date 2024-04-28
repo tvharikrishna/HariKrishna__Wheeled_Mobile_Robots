@@ -40,10 +40,23 @@ This repository contains a variety of motion planning algorithms tailored for wh
 
 <div align="center">
     
-| AB | Robot Type | Robot Description |  
-|------|-------------|----------|
-| **AMR** | Autonomous Mobile Robots | Autonomous Mapping and Navigation |
-| **AMMR** | Autonomous Mobile Manipulation Robots | AMR + Grasping and Manipulation of Objects|
+<table>
+  <tr>
+    <th align="center">Abbr</th>
+    <th align="center">Robot Type</th>
+    <th align="center">Robot Description</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>AMR</strong></td>
+    <td align="center">Autonomous Mobile Robots</td>
+    <td align="center">Autonomous Mapping and Navigation</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AMMR</strong></td>
+    <td align="center">Autonomous Mobile Manipulation Robots</td>
+    <td align="center">AMR + Grasping and Manipulation of Objects</td>
+  </tr>
+</table>
 
 </div> <br>
 
