@@ -77,26 +77,6 @@ This repository contains a variety of motion planning algorithms tailored for wh
     <img src="readme_data/hkbot_poses.png" alt="ROS system architecture diagram" width="1500"/>
 </p>
 
-<h2>💠Nvidia Jetson Nano</h2>
-<p align='justify'>
-The Nvidia Jetson Nano is a small, powerful computer designed specifically for <code>Robotics and AI</code>. It delivers the compute performance to run modern AI workloads at unprecedented size, power, and cost.</p>
-
-<h2>💠YDLidar</h2>
-<p align='justify'>
-YDLidar is a high-performance lidar specially built for ROS. It adopts the TOF ranging method, can resist up to 100KLux strong light radiation, supports both indoor and outdoor mapping and navigation, the measurement radius can reach 30m, and the measurement blind area is only 5cm. </p>
-
-<h2>💠ORBBEC Astra Pro Plus Depth Camera</h2>
-<p align='justify'>
-The ORBBEC Astra Pro Plus is a compact, reliable depth camera that provides high-resolution 3D scanning, gesture recognition, and tracking, making it a perfect choice for autonomous robotics where environmental perception and interaction are required. </p>
-
-<h2>💠6DOF Robotic Arm</h2>
-<p align='justify'>
-The robotic arm is built with 6 serial bus servos with repeat position accuracy of ± 0.5mm. With the robotic arm as the central axis, it can grasp objects within a radius of 30cm. It can handle objects of less than 500g, and provides the MoveIt ROS package for effective manipulation. </p>
-
-<h2>💠Mecanum Wheels with Pendulum Suspension</h2>
-<p align='justify'>
-The robot chassis is made of an aluminum alloy chassis, equipped with 4 Mecanum wheels and a pendulum suspension chassis design, which can make the robot have characteristics of a compact structure, flexible movement, and powerful maneuverability. The pendulum suspension chassis can allow HK Bot to adapt to uneven ground.</p> <br>
-
 <p align="center">
     <img src="readme_data/HK_BOT_Components.png" alt="HK-BOT Components List" width="1500"/>
 </p><hr><br><br>
