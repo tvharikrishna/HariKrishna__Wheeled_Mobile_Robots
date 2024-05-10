@@ -5,7 +5,7 @@
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/project_title.png" alt="project title" width="1111"/>
-</p> <br>
+</p> <br> <br>
 
 <!------ WHAT ------>
 <p align="center">
@@ -21,7 +21,7 @@ The SLAM Gmapping project employs Simultaneous Localization and Mapping (SLAM) u
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_lidar-pointcloud-ros-activity-7074351404991008769-n0g3/?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-SLAM Gmapping-blue" alt="Video" width="400" height="38"/>
   </a>
-</p> <hr> <br>
+</p> <hr> <br> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -31,7 +31,7 @@ The SLAM Gmapping project employs Simultaneous Localization and Mapping (SLAM) u
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
 The vision for the SLAM Gmapping project is to revolutionize how autonomous systems perceive and interact with their environment. It aims to create sophisticated, self-updating maps while navigating in real-time, allowing for seamless movement and obstacle avoidance in complex, dynamic environments. Ultimately, this project aspires to set a new standard for adaptability and reliability in autonomous exploration.
-</p> <hr> <br>
+</p> <hr> <br> <br>
 
 <!------ HOW ------>
 <p align="center">
@@ -54,7 +54,6 @@ The project is developed using a robust and versatile tech stack, comprising Ubu
 <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
 
-
 <!------ Deployment and Testing ------>
 <p align="center"><h2>💠 Deployment and Testing</h2></p>
 <p style="text-align: justify;">
@@ -69,13 +68,17 @@ The project is developed using a robust and versatile tech stack, comprising Ubu
 
 <p align="center">
   <img src="readme_data/project_obs4.png" alt="Project Observation 4" width="1111"/>
-</p>
+</p> <br>
 
 <!------ Result and Analysis ------>
 <p align="center"><h2>💠 Results & Analysis </h2></p>
 <p align='justify'>
-▸ ADD TEXT HERE
-</p> 
+▸ The SLAM Gmapping project's results demonstrate a marked improvement in map accuracy through the use of morphological operations. The original map (`my_map.pgm`) contains noise and gaps that hinder accurate environment mapping. Applying operations like erosion and dilation with different kernel sizes enhances boundary detection and closes gaps effectively. The refined map, visible at the bottom right of the image, shows a clear and precise representation of the space.
+
+▸ The initial morphological operations (kernel size 1) reduce noise and delineate boundaries better than the raw map. Further refinement (kernel size 2) creates a high-quality map with smooth edges, filled gaps, and accurate obstacle representation.
+
+▸ This map refinement technique improves the quality and usability of the generated maps significantly, ensuring accurate navigation and planning. By leveraging computer vision methods, this approach provides robust solutions for noise reduction and enhances the overall quality of SLAM-based maps.
+</p>
 
 <p align="center">
   <img src="readme_data/project_obs5.png" alt="Project Observation 5" width="1111"/>
