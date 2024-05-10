@@ -58,7 +58,7 @@ This repository contains a variety of motion planning algorithms tailored for wh
   </tr>
 </table>
 
-</div> <br>
+</div><hr><br>
 
 <h1>🔻 What is HKBOT?</h1>
 <p align="justify">
@@ -75,12 +75,94 @@ This robot is designed for all applications related to Autonomous Mobile Robots 
 
 <p align="center">
     <img src="readme_data/hkbot_poses.png" alt="ROS system architecture diagram" width="1500"/>
+</p> <hr><br>
+
+<p align="center">
+    <img src="readme_data/HKBOT_components.png" alt="HK-BOT Components List" width="1500"/>
 </p>
 
-<p align="center">
-    <img src="readme_data/HK_BOT_Components.png" alt="HK-BOT Components List" width="1500"/>
-</p><hr><br><br>
+<p align="center"><h2>💠 Nvidia Jetson Nano 4GB</h2></p>
+<p align='justify'>
+    The Nvidia Jetson Nano 4GB stands at the core of the HK-BOT, serving as its brain. This compact yet powerful board is designed to bring artificial intelligence and machine learning to the edge, enabling the robot to process complex tasks in real-time.
+</p>
 
-<p align="center">
+<p align="center"><h2>💠 YDLidar</h2></p>
+<p align='justify'>
+    YDLidar provides the HK-BOT with essential spatial awareness, allowing it to navigate and map its environment accurately. Its time-of-flight ranging with a 30m range ensures efficient obstacle avoidance and path planning.
+</p>
+
+<p align="center"><h2>💠 ORBBECR Astra Pro Plus</h2></p>
+<p align='justify'>
+    The ORBBECR Astra Pro Plus enhances the robot's perception by capturing detailed 3D imagery. This depth camera's structured light technology is fundamental for complex tasks requiring object recognition and interaction within an 8m range.
+</p>
+
+<p align="center"><h2>💠 DS3235 Servo Motors</h2></p>
+<p align='justify'>
+    DS3235 Coreless High Torque Servo Motors power the robotic arm, providing precise and robust movement. Their substantial torque enables the HK-BOT to manipulate objects with deftness and accuracy.
+</p>
+
+<p align="center"><h2>💠 IMX219-160 8Mega Pixels Camera</h2></p>
+<p align='justify'>
+    The IMX219-160 8Mega Pixels Camera grants high-resolution vision to the HK-BOT, vital for tasks that demand fine visual details, such as inspection or surveillance.
+</p>
+
+<p align="center"><h2>💠 520 Hall Gear Encoder Motors</h2></p>
+<p align='justify'>
+    The 520 Hall Gear Encoder Motors, reminiscent of Boston Dynamics' precision, offer the HK-BOT formidable torque and speed control. This component is key for the robot's stable and responsive movement.
+</p>
+
+<p align="center"><h2>💠 Mecanum Wheels</h2></p>
+<p align='justify'>
+    Mecanum Wheels provide the HK-BOT with omnidirectional movement, enabling it to traverse complex terrains and tight spaces with ease, which enhances its adaptability and maneuverability in various environments.
+</p>
+
+<p align="center"><h2>💠 Pendulum Suspension</h2></p>
+<p align='justify'>
+    The Pendulum Suspension system contributes to the HK-BOT's stability and agility. This sophisticated mechanism allows for smooth navigation over uneven surfaces, ensuring the robot maintains balance and traction.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr><br><br><p align="center">
     <img src="readme_data/hk_quote.png" alt="Inspirational quote on robotics" width="1500"/>
 </p>
