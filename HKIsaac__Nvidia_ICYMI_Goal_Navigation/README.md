@@ -1,27 +1,23 @@
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
-
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
-</p> <hr> <br>
+    <img src="readme_data/project_title.png" alt="title" width="1500"/>
+</p> <br> <br>
 
 <!------ WHAT ------>
 <p align="center">
-    <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
+    <img src="readme_data/what.png" alt="what" width="600"/>
 </p>
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-The Bicycle Kinematic Model block creates a bicycle vehicle model to simulate simplified car-like vehicle dynamics, representing a vehicle with two axles defined by the length between the axles, known as the `wheel base. The vehicle's heading, theta, is defined at the center of the rear axle, where the front wheel can be steered using an angle psi. <br>
-    
-▸ This kinematic approach is fundamental in <strong>autonomous driving vehicles</strong> and <strong>autonomous mobile robotics</strong>, enabling accurate motion planning and control by predicting vehicle trajectory and facilitating the implementation of advanced navigation algorithms. </p>
+The 'NVIDIA ICYMI Point Clicked Goal Navigation' project showcases the capabilities of the NVIDIA Carter robot in a simulated environment using the NVIDIA Isaac SIM platform. This project focuses on enhancing the robot's navigation abilities, allowing it to move towards a user-defined point within the environment. Utilizing advanced sensors and real-time processing, the robot efficiently navigates while avoiding obstacles, mapping its surroundings, and providing depth estimations and visual feedback through integrated RGB and depth cameras.
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-autonomousvehicles-mobilerobots-activity-7115334457124900866-LaV_?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/My Project Video-Kinematic Bicycle Model-blue" alt="Video" width="337" height="30"/>
+  <a href="https://www.youtube.com/watch?v=PVtNyKsMosc&list=PL0phN1wjvpsafQdjjdUhWytGB8bZFhxXy&index=4">
+    <img src="https://img.shields.io/badge/My Project Video-Nvidia ICYMI Goal Navigation-blue" alt="Video" width="470" height="38"/>
   </a>
-</p> <hr> <br>
+</p> <hr> <br> <br> 
 
 <!------ WHY ------>
 <p align="center">
@@ -30,18 +26,9 @@ The Bicycle Kinematic Model block creates a bicycle vehicle model to simulate si
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-The project harnesses the Kinematic Bicycle Model to refine movement planning and execution in autonomous driving and robotics. This approach provides enhanced control over motion dynamics, crucial for the sophisticated demands of modern autonomous systems. Here are the detailed advantages of applying the Kinematic Bicycle Model in the development of autonomous vehicles and mobile robotics:
+The vision behind the NVIDIA ICYMI Point Clicked Goal Navigation project is to demonstrate a scalable and adaptable framework for autonomous robot navigation in dynamically changing environments. The goal is to push the boundaries of what autonomous systems can achieve in terms of precision navigation and environmental interaction, thereby paving the way for broader applications in industrial automation, logistics, and service sectors where advanced navigation is crucial.
+</p> <hr> <br> <br> 
 
-▸ <code> Precision Movement Planning:</code> It is crucial for precise motion planning in autonomous robotics, offering a balance between computational simplicity and movement accuracy.
-
-▸ <code> Trajectory Simplification:</code> The model simplifies the prediction of vehicle trajectories, transforming steering commands into actionable paths for efficient navigation.
-
-▸ <code> Path Planning Optimization:</code> Fundamental in path planning, it ensures smooth navigation and strict adherence to designated routes, enhancing the algorithmic efficiency.
-
-▸ <code> Energy Efficiency:</code> By optimizing trajectories, it promotes energy-efficient routing, crucial for extending battery life in electric autonomous vehicles.
-
-▸ <code> Safety Enhancements:</code> The model enhances safety protocols by enabling systems to preemptively react to sudden changes in the driving environment, thereby minimizing accident risks.
-</p> <hr> <br>
 
 <!------ HOW ------>
 <p align="center">
@@ -49,76 +36,67 @@ The project harnesses the Kinematic Bicycle Model to refine movement planning an
 </p>
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
-
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
-The project is developed using the Robot Operating System (ROS), facilitating complex simulations and trajectory analysis. The mathematical foundation and kinematic behavior of the bicycle model are visualized through Matplotlib, with Python scripting at the core of the development. RViz provides real-time visualization of the robot model and trajectory, enhancing the analysis and debugging process.
+The implementation of this project is rooted in a powerful and diverse toolkit, embracing both Ubuntu and Linux for robust operating system support, with Python as the backbone for scripting and automation. The project is built upon the ROS ecosystem and powered by the advanced capabilities of NVIDIA Isaac SIM for realistic simulation and testing.
 </p>
+
 <p>
-  <!-- Ubuntu Badge -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
-  <!-- Linux Badge -->
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
-  <!-- VS Code Badge -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
-  <!-- ROS Badge -->
-  <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
-  <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-  <!-- Matplotlib Badge -->
-  <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20SIM-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 30px;"/> &nbsp;
+</p> <br> 
+
+<!------ Technical Terms ------>
+<p align="center"><h2>💠 Project Technical Terms & Concepts </h2></p>
+<p align="center"><h3>▸ What is Visual Scripting in Isaac?</h3></p>
+<p style="text-align: justify;">
+Visual Scripting in NVIDIA Isaac SIM is a user-friendly interface that allows developers to create complex robot behaviors without writing traditional code. This tool utilizes a node-based approach where users can drag and connect different nodes that represent actions, sensors, or logic components. It simplifies the development process, making it accessible for users with limited programming experience, and accelerates the prototyping of robotic solutions. Visual scripting is especially beneficial in simulation environments where rapid iteration and testing are crucial for developing efficient robotic systems.
 </p> <br>
 
 <!------ Deployment and Testing ------>
-<p align="center"><h2>💠 Deployment and Testing </h2></p>
-<p align='justify'>
-▸ The deployment of the Bicycle Kinematic Model was conducted within a simulated environment using ROS, ensuring a controlled testing. I deployed the model on a standard Ubuntu system, with simulations facilitated by Matplotlib for trajectory visualization. The process included continuous integration practices to check for code integrity and automated tests to validate kinematic equations against predetermined inputs.
+<p align="center"><h2>💠 Deployment and Testing</h2></p> <br>
+<p align="center">
+    <img src="readme_data/project_obs1.png" alt="Deployment & Test Image" width="1500"/>
 </p>
 
-<p align='justify'>
-▸ Testing consisted of a series of controlled simulations designed to challenge the model's capabilities in trajectory planning and response. Scenarios included navigating circular paths, sharp turns, and S-shaped trajectories, each requiring precise control of steering angles and velocity. The model's performance was gauged by its ability to maintain the intended path with minimal deviation and its response time to dynamic commands.
-</p> <br>
-
-<!------ Observation 1 ------>
-<p align="center">
-    <img src="readme_data/project_obs_1.png" alt="Why we chose this project" width="1500"/>
-</p> <br>
-
-<!------ Observation 2 ------>
-<p align="center">
-    <img src="readme_data/project_obs_2.png" alt="Why we chose this project" width="1500"/>
-</p> <br>
-
-<!------ Observation 3 ------>
-<p align="center">
-    <img src="readme_data/project_obs_3.png" alt="Why we chose this project" width="1500"/>
-</p> <br>
-
-<!------ Result and Analysis ------>
-<p align="center"><h2>💠 Results & Analysis </h2></p>
-
-<p align='justify'>
-▸ The Bicycle Kinematic Model's testing confirmed theoretical predictions with real-world behavior. Control sequences manipulated velocity and turning rate, with resulting positions and distances traveled quantifying model accuracy.
+<h3>1. Import Assets</h3>
+<p style="text-align: justify;">
+In this initial step, assets are imported into Isaac SIM. For this project, a warehouse environment was chosen as the testing ground, but users can select any robot and environment they prefer. This flexibility allows for varied applications and experimentation within the simulation.
 </p>
 
-<p align='justify'>
-▸ A test with <code>control sequence [1, 0.1, 5]</code> showed the model navigating from the origin to <code>(-2.5586, 5.1742)</code>, covering <code>5.77 units</code>. This aligns with predictions from kinematic equations, illustrating the model's precision.
+<h3>2. Set Physics and Lighting</h3>
+<p style="text-align: justify;">
+Setting up accurate physics and lighting is essential for realistic simulations. This step involves configuring the physical properties that affect robot interaction with the environment and adjusting lighting to enhance visual realism and perception, crucial for tasks involving visual processing.
 </p>
 
-<p align='justify'>
-▸ Complex maneuvers like sharp turns and direction reversals were executed with high fidelity, as seen with sequences like <code>[1, 0.7, 7]</code> and <code>[-0.1, 0.8]</code>, validating the model's responsiveness to input variations.
-</p>
-
-<p align='justify'>
-▸ The practical validation of the kinematic equations has established their high accuracy and reliability. Each computational step, from velocity computation to positional adjustments, adhered to theoretical expectations with precision. This thorough analysis has not only fortified the Bicycle Kinematic Model's theoretical foundations but has also illuminated its practical efficacy.
-</p>
-
-<!------ Observation 4 ------>
 <p align="center">
-    <img src="readme_data/project_obs_4.png" alt="Why we chose this project" width="1500"/>
-</p> <hr> <br>
+  <img src="readme_data/project_obs2.png" alt="Deployment & Test Image" width="1111"/>
+</p>
 
-<!------ Smile More ------>
+<h3>3. Implement Visual Scripting</h3>
+<p style="text-align: justify;">
+NVIDIA Isaac SIM introduces a powerful feature called visual scripting, which is utilized to design the robot's framework. This includes creating nodes for components like cameras, motors, and driver controls. Visual scripting allows for an intuitive setup of complex robotic functionalities without the need for traditional coding.
+</p>
+
 <p align="center">
-    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
+  <img src="readme_data/project_obs3.png" alt="Deployment & Test Image" width="1111"/>
+</p>
+
+<h3>4. Run my Python File in src</h3>
+<p style="text-align: justify;">
+After setting up the environment and carefully assigning values to the nodes in OG Graphs, the simulation is ready to be started. Run the Python script named `carter_robot_control.py` from the src directory to control the robot. This script handles the direct manipulation of the robot within the simulation.
+</p>
+
+<h3>5. Follow NVIDIA Documentation</h3>
+<p style="text-align: justify;">
+For those new to NVIDIA Isaac SIM, it is recommended to <a href="https://docs.omniverse.nvidia.com/isaacsim/latest/ros_tutorials/index.html">follow the official NVIDIA documentation</a> to get a comprehensive understanding of the tools and features offered. This guidance will help ensure that all steps are correctly implemented and that users can maximize the platform's capabilities.
+</p> <hr> <br> <br>
+
+<!------ End Image ------>
+<p align="center">
+    <img src="readme_data/hk_quote.png" alt="endquote" width="1500"/>
 </p>
