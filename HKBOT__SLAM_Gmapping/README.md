@@ -54,7 +54,7 @@ The project is developed using a robust and versatile tech stack, comprising Ubu
 </p> <br>
 
 <!------ Technical Terms ------>
-<p align="center"><h2>💠 Project Technical Terms & Concept </h2></p>
+<p align="center"><h2>💠 Project Technical Terms & Concepts</h2></p>
 <p align="center"><h3>▸ What is SLAM?</h3></p>
 <p style="text-align: justify;">
 SLAM (Simultaneous Localization and Mapping) is a technology that allows a robot or a vehicle to create a map of its surroundings while simultaneously determining its location within that map. This is crucial for navigation in environments where GPS is unavailable or unreliable.
