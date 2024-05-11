@@ -115,8 +115,7 @@ The below images represents a visual representation of Occupancy Grid Mapping an
   <img src="readme_data/refinment_map_4.jpg" alt="Refinement Map 4" width="200"/>
 </p> <hr> <br> <br>
 
-
 <!------ End Image ------>
 <p align="center">
-    <img src="HK_Endquote.png" alt="End Quote" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="End Quote" width="1500"/>
 </p>
