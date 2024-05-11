@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsafQdjjdUhWytGB8bZFhxXy">
-    <img src="https://img.shields.io/badge/Full Playlist of Projects-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="250" height="30"/>
+    <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
   </a>
 </p> <br> <br>
 
