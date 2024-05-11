@@ -14,14 +14,12 @@
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-▸ This project showcases the HK Bot, an innovative custom made mobile robot engineered for autonomous navigation and proficient obstacle avoidance. It incorporates YdLidar technology for high-precision environmental scanning and leverages the Robot Operating System (ROS) to offer a sturdy and adaptable platform for robot programming. </p>
-
-<p align='justify'>
-▸ Furthermore, the system's spatial data and sensor inputs are visualized using rviz, ROS's 3D visualization tool, allowing for the plotting of 2D LiDAR points for a comprehensive understanding of the robot's perception and navigation capabilities. </p>
+This project showcases the HK Bot, an innovative custom-made mobile robot engineered for autonomous navigation and proficient obstacle avoidance. It incorporates YdLidar technology for high-precision environmental scanning and leverages the Robot Operating System (ROS) to offer a sturdy and adaptable platform for robot programming. Furthermore, the system's spatial data and sensor inputs are visualized using rviz, ROS's 3D visualization tool, allowing for the plotting of 2D LiDAR points for a comprehensive understanding of the robot's perception and navigation capabilities.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_lidar-pointcloud-ros-activity-7074351404991008769-n0g3/?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/My Project Video-Obstacle Evader Robot-blue" alt="Video" width="337" height="30"/>
+    <img src="https://img.shields.io/badge/My Project Video-Obstacle Evader Robot-blue" alt="Video" width="400" height="40"/>
   </a>
 </p> <hr> <br>
 
@@ -62,8 +60,10 @@ The project is developed using a robust and versatile tech stack, comprising Ubu
 <img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="RViz" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
+<br>
 
-<p align="center"><h2>▸ What is YdLidar:</h2></p>
+<p align="center"><h2>💠 Project Technical Terms & Concept </h2></p>
+<p align="center"><h3>▸ What is YdLidar:</h3></p>
 <p style="text-align: justify;">
 YdLiDAR is a type of Light Detection and Ranging (LiDAR) sensor designed for use in robotics and automation. LiDAR sensors measure distances by illuminating targets with laser light and measuring the reflection with a sensor. YdLiDAR sensors are known for their cost-effectiveness and compact size, making them suitable for applications like obstacle avoidance, area mapping, and robot navigation where precise distance measurements and environmental awareness are crucial. </p> <br>
 
@@ -71,7 +71,7 @@ YdLiDAR is a type of Light Detection and Ranging (LiDAR) sensor designed for use
   <img src="readme_data/ydlidar.png" alt="YdLidar Sensor" width="220"/>
 </p>
 
-<p align="center"><h2>▸ How Does Lidar Work:</h2></p>
+<p align="center"><h3>▸ How Does Lidar Work:</h3></p>
 <p style="text-align: justify;">
 TOF (Time of Flight) LiDAR is a technology that calculates the distance to a target by measuring the travel time of a light pulse. The process begins when a laser transmitter emits a beam of modulated light. This light travels to the target, bounces back, and is then detected by the laser receiver in the LiDAR system.
 
