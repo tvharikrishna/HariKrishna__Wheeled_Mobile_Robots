@@ -1,7 +1,3 @@
-<!------ Copyrights ------>
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
-
 <!------ PROJECT TITLE ------>
 <p align="center">
     <img src="readme_data/project_title.png" alt="project title" width="1111"/>
@@ -14,18 +10,14 @@
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-An introductory project created in NVIDIA Isaac SIM, featuring the deployment and integration of the advanced NVIDIA Carter robot. Following Isaac's comprehensive guidelines, the project leverages visual scripting capabilities and enables intuitive keyboard-driven navigation of the robot within the simulation environment.</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/posts/tvharikrishnahk_lidar-pointcloud-ros-activity-7074351404991008769-n0g3/?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/My Project Video-Simple Nvidia Crater Robot-blue" alt="Video" width="337" height="30"/>
-  </a>
-
-<p align="center">
-    <img src="readme_data/project_obs1.png" alt="How we implemented the project" width="1500"/>
+An introductory project created in NVIDIA Isaac SIM, featuring the deployment and integration of the advanced NVIDIA Carter robot. Following Isaac's comprehensive guidelines, the project leverages visual scripting capabilities and enables intuitive keyboard-driven navigation of the robot within the simulation environment.
 </p>
 
-</p> <br> <br>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4IZ0Rt67UUU">
+    <img src="https://img.shields.io/badge/My Project Video-Nvidia Carter Robot-blue" alt="Video" width="380" height="38"/>
+  </a>
+</p> <hr> <br> <br> 
 
 <!------ WHY ------>
 <p align="center">
@@ -34,14 +26,8 @@ An introductory project created in NVIDIA Isaac SIM, featuring the deployment an
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-▸ The vision of this project centers on illustrating the practical applications of NVIDIA Isaac SIM by integrating the NVIDIA Carter robot into its ecosystem. The workflow begins with a precise deployment of the robot model within the simulation, ensuring all physical properties and behaviors are accurately represented. 
-
-▸ Following the guidelines provided by Isaac SIM, the project utilizes visual scripting, a powerful tool for defining complex robotic behaviors without traditional coding. With visual scripting, users can orchestrate intricate sequences and operations, setting the stage for the robot's autonomous functions.
-
-▸ Moreover, the inclusion of keyboard navigation offers a hands-on approach for users to interact with the robot directly, providing immediate feedback and control. This project aims to demonstrate a streamlined process from simulation to real-world application, emphasizing the ease with which users can simulate, visualize, and test robotic systems within a virtual yet realistic setting.
-</p>
-
-</p> <br> <br>
+The vision of this project is to demonstrate the practical applications of NVIDIA Isaac SIM by integrating the NVIDIA Carter robot into its ecosystem. The workflow starts with accurately deploying the robot model in the simulation, ensuring all physical properties and behaviors are represented correctly. The project employs visual scripting, a robust tool that allows defining complex robotic behaviors without traditional coding, enabling users to orchestrate intricate sequences and operations for the robot's autonomous functions. Additionally, the inclusion of keyboard navigation provides a hands-on method for users to interact directly with the robot, offering immediate feedback and control. This project showcases a streamlined process from simulation to real-world application, highlighting the ease with which users can simulate, visualize, and test robotic systems in a virtual yet realistic setting.
+</p> <hr> <br> <br>
 
 <!------ HOW ------>
 <p align="center">
@@ -54,17 +40,26 @@ An introductory project created in NVIDIA Isaac SIM, featuring the deployment an
 The implementation of this project is rooted in a powerful and diverse toolkit, embracing both Ubuntu and Linux for robust operating system support, with Python as the backbone for scripting and automation. The project is built upon the ROS ecosystem and powered by the advanced capabilities of NVIDIA Isaac SIM for realistic simulation and testing.
 </p>
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20SIM-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 25px;"/> &nbsp;
+<p>
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20SIM-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 30px;"/> &nbsp;
+</p> <br> 
+
+<!------ Technical Terms ------>
+<p align="center"><h2>💠 Project Technical Terms & Concepts </h2></p>
+<p align="center"><h3>▸ What is Visual Scripting in Isaac?</h3></p>
+<p style="text-align: justify;">
+Visual Scripting in NVIDIA Isaac SIM is a user-friendly interface that allows developers to create complex robot behaviors without writing traditional code. This tool utilizes a node-based approach where users can drag and connect different nodes that represent actions, sensors, or logic components. It simplifies the development process, making it accessible for users with limited programming experience, and accelerates the prototyping of robotic solutions. Visual scripting is especially beneficial in simulation environments where rapid iteration and testing are crucial for developing efficient robotic systems.
+</p> <br>
 
 <!------ Deployment and Testing ------>
-<p align="center"><h2>💠 Deployment and Testing</h2></p>
-<p style="text-align: justify;">
-This phase outlines the crucial steps involved in setting up and verifying the project within the NVIDIA Isaac SIM environment.
+<p align="center"><h2>💠 Deployment and Testing</h2></p> <br>
+<p align="center">
+    <img src="readme_data/project_obs1.png" alt="Deployment & Test Image" width="1500"/>
 </p>
 
 <h3>1. Import Assets</h3>
@@ -78,7 +73,7 @@ Setting up accurate physics and lighting is essential for realistic simulations.
 </p>
 
 <p align="center">
-  <img src="readme_data/project_obs2.png" alt="Project Observation 2" width="1111"/>
+  <img src="readme_data/project_obs2.png" alt="Deployment & Test Image" width="1111"/>
 </p>
 
 <h3>3. Implement Visual Scripting</h3>
@@ -87,7 +82,7 @@ NVIDIA Isaac SIM introduces a powerful feature called visual scripting, which is
 </p>
 
 <p align="center">
-  <img src="readme_data/project_obs3.png" alt="Project Observation 2" width="1111"/>
+  <img src="readme_data/project_obs3.png" alt="Deployment & Test Image" width="1111"/>
 </p>
 
 <h3>4. Run my Python File in src</h3>
@@ -97,9 +92,10 @@ After setting up the environment and carefully assigning values to the nodes in 
 
 <h3>5. Follow NVIDIA Documentation</h3>
 <p style="text-align: justify;">
-For those new to NVIDIA Isaac SIM, it is recommended to <a href="https://docs.omniverse.nvidia.com/isaacsim/latest/ros_tutorials/index.html">follow the official NVIDIA documentation</a> to get a comprehensive understanding of the tools and features offered. This guidance will help ensure that all steps are correctly implemented and that users can maximize the platform's capabilities. </p> <br> <hr>
+For those new to NVIDIA Isaac SIM, it is recommended to <a href="https://docs.omniverse.nvidia.com/isaacsim/latest/ros_tutorials/index.html">follow the official NVIDIA documentation</a> to get a comprehensive understanding of the tools and features offered. This guidance will help ensure that all steps are correctly implemented and that users can maximize the platform's capabilities.
+</p> <hr> <br> <br>
 
 <!------ End Image ------>
 <p align="center">
-    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
-</p> 
+    <img src="readme_data/hk_quote.png" alt="endquote" width="1500"/>
+</p>
