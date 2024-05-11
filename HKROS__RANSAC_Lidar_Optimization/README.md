@@ -49,19 +49,50 @@ The project's execution is centered on the strategic application of the RANSAC a
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 30px;"/> &nbsp;
 <br>
 
+<!------ Technical Terms ------>
+<p align="center"><h2>💠 Project Technical Terms & Concepts</h2></p>
+<p align="center"><h3>▸ What is RANSAC?</h3></p>
+<p style="text-align: justify;">
+RANSAC (Random Sample Consensus) is an iterative method used in data analysis to estimate parameters of a mathematical model from a set of observed data that contains outliers. It is a robust algorithm designed to produce reliable estimates by repeatedly selecting random subsets of the data, fitting a model, and then determining how many of the remaining data points fit this model within a predefined tolerance.
+</p> <br>
+
+<p align="center">
+    <img src="readme_data/ransac_gif_1.gif" alt="Project Technical Terms & Concepts Images" width="651"/>
+</p> <br>
+
+<p align="center"><h3>▸ What are Outliers in Lidar Data</h3></p>
+<p style="text-align: justify;">
+Outliers in LiDAR data are data points that do not fit the expected pattern or model, often caused by noise, errors in measurement, or objects that are not relevant to the analysis, such as birds, rain, or dust. These points can significantly skew the results of data analysis if not properly managed.
+</p> <br>
+
+<p align="center"><h3>▸ What are Inliers in Lidar Data</h3></p>
+<p style="text-align: justify;">
+Inliers in LiDAR data are the points that align well with the general model being used to represent the environment. These are the data points that reflect the actual physical surfaces in the environment, such as the ground, buildings, and other structures, and are crucial for accurate mapping and navigation.
+</p> <br>
+
+<p align="center"><h3>▸ What is the whole purpose of using RANSAC on Lidar Data</h3></p>
+<p style="text-align: justify;">
+The primary purpose of using RANSAC on LiDAR data is to effectively distinguish between inliers and outliers, allowing for the construction of an accurate model of the environment with minimal influence from noise and erroneous measurements. This enhances the reliability and precision of applications such as autonomous navigation, terrain mapping, and obstacle detection.
+</p> <br>
+
+<p align="center"><h3>▸ Apart from RANSAC, are there any other methods?</h3></p>
+<p style="text-align: justify;">
+Yes, apart from RANSAC, there are several other robust estimation methods used to handle outliers in data analysis, including methods like the Least Median of Squares (LMedS), Maximum Likelihood Estimation (MLE), and other iterative techniques that aim to optimize the fit of a model to the data by minimizing the effect of outliers.
+</p> <br>
+
 <!------ Deployment and Testing ------>
 <p align="center"><h2>💠 Deployment and Testing </h2></p>
 
 <p align="center">
-    <img src="readme_data/project_obs_1.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/project_obs_1.png" alt="Deployment and Testing Images" width="1500"/>
 </p>
 
 <p align="center">
-    <img src="readme_data/project_obs_2.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/project_obs_2.png" alt="Deployment and Testing Images" width="1500"/>
 </p>
 
 <p align="center">
-    <img src="readme_data/project_obs_3.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/project_obs_3.png" alt="Deployment and Testing Images" width="1500"/>
 </p>
 
 <!------ Result and Analysis ------>
@@ -70,7 +101,7 @@ The project's execution is centered on the strategic application of the RANSAC a
 The implementation of the RANSAC algorithm on the LiDAR data has been successful in removing outliers. The refined data now presents a more accurate representation of the environment, allowing for improved navigational decisions and path planning in autonomous systems.
 </p> <hr> <br>
 
-<!------ End Image ------><!------ End Image ------><!------ End Image ------>
+<!------ End Image ------>
 <p align="center">
-    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="endquote" width="1500"/>
 </p>
