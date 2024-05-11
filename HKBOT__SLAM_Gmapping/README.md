@@ -75,15 +75,15 @@ GMapping is a specific implementation of SLAM that uses a particle filter to pro
 <p style="text-align: justify;">
     
 <p align="center">
-  <img src="readme_data/project_obs2.png" alt="Project Observation 2" width="1111"/>
+  <img src="readme_data/project_obs2.png" alt="Deployment & Testing Image" width="1111"/>
 </p>
 
 <p align="center">
-  <img src="readme_data/project_obs3.png" alt="Project Observation 3" width="1111"/>
+  <img src="readme_data/project_obs3.png" alt="Deployment & Testing Image" width="1111"/>
 </p>
 
 <p align="center">
-  <img src="readme_data/project_obs4.png" alt="Project Observation 4" width="1111"/>
+  <img src="readme_data/project_obs4.png" alt="Deployment & Testing Image" width="1111"/>
 </p> <br>
 
 <!------ Result and Analysis ------>
@@ -97,12 +97,12 @@ GMapping is a specific implementation of SLAM that uses a particle filter to pro
 </p>
 
 <p align="center">
-  <img src="readme_data/project_obs5.png" alt="Project Observation 5" width="1111"/>
+  <img src="readme_data/project_obs5.png" alt="Result & Analysis Image" width="1111"/>
 </p>
 
 <hr> <br> <br> 
 
 <!------ End Image ------>
 <p align="center">
-    <img src="readme_data/HKbot_endquote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/HKbot_endquote.png" alt="endquote" width="1500"/>
 </p>
