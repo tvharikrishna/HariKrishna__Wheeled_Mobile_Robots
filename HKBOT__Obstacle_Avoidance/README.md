@@ -1,11 +1,11 @@
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/project_title.png" alt="project title" width="1111"/>
+    <img src="readme_data/project_title.png" alt="title" width="1111"/>
 </p> <br> <br>
 
 <!------ WHAT ------>
 <p align="center">
-    <img src="readme_data/what.png" alt="what section" width="600"/>
+    <img src="readme_data/what.png" alt="what" width="600"/>
 </p> 
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
@@ -21,7 +21,7 @@ This project introduces the HK Bot, a custom-made mobile robot designed for auto
 
 <!------ WHY ------>
 <p align="center">
-    <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
+    <img src="readme_data/why.png" alt="Why" width="600"/>
 </p>
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
@@ -31,7 +31,7 @@ This project focuses on advancing obstacle avoidance technology, essential for t
 
 <!------ HOW ------>
 <p align="center">
-    <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
+    <img src="readme_data/how.png" alt="How" width="600"/>
 </p>
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
@@ -61,7 +61,7 @@ YdLiDAR is a type of Light Detection and Ranging (LiDAR) sensor designed for use
 </p> <br>
 
 <p align="center">
-  <img src="readme_data/ydlidar.png" alt="Technical Term Images" width="220"/>
+  <img src="readme_data/ydlidar.png" alt="Technical Term Image" width="220"/>
 </p>
 
 <p align="center"><h3>▸ How Does Lidar Work:</h3></p>
@@ -72,11 +72,11 @@ TOF (Time of Flight) LiDAR is a technology that calculates the distance to a tar
 <div align="center">
   <table>
     <tr>
-      <td rowspan="2"><img src="readme_data/lidarscan.gif" alt="Technical Term Images" width="350"/></td>
-      <td><img src="readme_data/tof_1.png" alt="Technical Term Images" width="525"/></td>
+      <td rowspan="2"><img src="readme_data/lidarscan.gif" alt="Technical Term Image" width="350"/></td>
+      <td><img src="readme_data/tof_1.png" alt="Technical Term Image" width="525"/></td>
     </tr>
     <tr>
-      <td><img src="readme_data/tof_2.jpg" alt="Technical Term Images" width="525"/></td>
+      <td><img src="readme_data/tof_2.jpg" alt="Technical Term Image" width="525"/></td>
     </tr>
   </table>
 </div>
@@ -90,15 +90,15 @@ TOF (Time of Flight) LiDAR is a technology that calculates the distance to a tar
 </p>
 
 <p align="center">
-  <img src="readme_data/project_observation_1.png" alt="Deployment and Testing Images" width="1111"/>
+  <img src="readme_data/project_observation_1.png" alt="Deployment and Testing Image" width="1111"/>
 </p>
 
 <!------ End Image ------>
 <p align="center">
-  <img src="readme_data/project_observation_2.png" alt="Deployment and Testing Images" width="1111"/>
+  <img src="readme_data/project_observation_2.png" alt="Deployment and Testing Image" width="1111"/>
 </p> <hr>
 
 <!------ End Image ------>
 <p align="center">
-    <img src="readme_data/HKbot_endquote.png" alt="End Quote" width="1500"/>
+    <img src="readme_data/HKbot_endquote.png" alt="endquote" width="1500"/>
 </p>
