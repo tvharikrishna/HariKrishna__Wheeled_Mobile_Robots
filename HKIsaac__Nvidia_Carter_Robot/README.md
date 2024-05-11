@@ -14,7 +14,7 @@ An introductory project created in NVIDIA Isaac SIM, featuring the deployment an
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=4IZ0Rt67UUU">
+  <a href="https://www.youtube.com/watch?v=LcM2e0YhsiU">
     <img src="https://img.shields.io/badge/My Project Video-Nvidia Carter Robot-blue" alt="Video" width="380" height="38"/>
   </a>
 </p> <hr> <br> <br> 
