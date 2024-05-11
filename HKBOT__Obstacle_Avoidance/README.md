@@ -54,7 +54,7 @@ The project is developed using a robust and versatile tech stack, comprising Ubu
 </p> <br>
 
 <!------ Technical Terms ------>
-<p align="center"><h2>💠 Project Technical Terms & Concept </h2></p>
+<p align="center"><h2>💠 Project Technical Terms & Concepts</h2></p>
 <p align="center"><h3>▸ What is YdLidar:</h3></p>
 <p style="text-align: justify;">
 YdLiDAR is a type of Light Detection and Ranging (LiDAR) sensor designed for use in robotics and automation. LiDAR sensors measure distances by illuminating targets with laser light and measuring the reflection with a sensor. YdLiDAR sensors are known for their cost-effectiveness and compact size, making them suitable for applications like obstacle avoidance, area mapping, and robot navigation where precise distance measurements and environmental awareness are crucial.
