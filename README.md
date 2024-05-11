@@ -2,6 +2,12 @@
     <img src="readme_data/wmr_welcome.png" alt="gif" width="1111"/>
 </p> <br>
 
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsafQdjjdUhWytGB8bZFhxXy">
+    <img src="https://img.shields.io/badge/Full Playlist of Projects-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="250" height="30"/>
+  </a>
+</p> <br> <br>
+
 <h1 align="left">🔻 Repository Details</h1>
 <p align='justify'>
 This repository contains a variety of motion planning algorithms tailored for wheeled mobile robots. Hands-on robotics projects are developed using HKBOT, while simulations are conducted in Gazebo and Nvidia Isaac environments.
