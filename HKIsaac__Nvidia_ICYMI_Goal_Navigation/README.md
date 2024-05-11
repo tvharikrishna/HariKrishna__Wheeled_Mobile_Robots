@@ -14,7 +14,7 @@ The 'NVIDIA ICYMI Point Clicked Goal Navigation' project showcases the capabilit
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=PVtNyKsMosc&list=PL0phN1wjvpsafQdjjdUhWytGB8bZFhxXy&index=4">
+  <a href="https://www.youtube.com/watch?v=3CQRbCDHU30">
     <img src="https://img.shields.io/badge/My Project Video-Nvidia ICYMI Goal Navigation-blue" alt="Video" width="470" height="38"/>
   </a>
 </p> <hr> <br> <br> 
@@ -52,48 +52,61 @@ The implementation of this project is rooted in a powerful and diverse toolkit, 
 
 <!------ Technical Terms ------>
 <p align="center"><h2>💠 Project Technical Terms & Concepts </h2></p>
-<p align="center"><h3>▸ What is Visual Scripting in Isaac?</h3></p>
+<p align="center"><h3>▸ What is Nvidia's ICYMI Robot?</h3></p>
 <p style="text-align: justify;">
-Visual Scripting in NVIDIA Isaac SIM is a user-friendly interface that allows developers to create complex robot behaviors without writing traditional code. This tool utilizes a node-based approach where users can drag and connect different nodes that represent actions, sensors, or logic components. It simplifies the development process, making it accessible for users with limited programming experience, and accelerates the prototyping of robotic solutions. Visual scripting is especially beneficial in simulation environments where rapid iteration and testing are crucial for developing efficient robotic systems.
+Nvidia's ICYMI (In Case You Missed It) Robot is a versatile robotic platform designed for research and development in the fields of robotics and artificial intelligence. It leverages Nvidia's cutting-edge hardware and software technologies to enable advanced functionalities like autonomous navigation, object recognition, and real-time environmental interaction.
+</p> <br>
+
+<p align="center"><h3>▸ What is Point Clicked Goal Navigation in ROS?</h3></p>
+<p style="text-align: justify;">
+Point Clicked Goal Navigation in ROS refers to a navigation technique where a robot moves to a target location selected by the user in a graphical interface. This is typically achieved by processing the click input to determine the target position in the robot's coordinate frame and then generating a path to that position while avoiding obstacles.
+</p> <br>
+
+<p align="center"><h3>▸ What is an Occupancy grid?</h3></p>
+<p style="text-align: justify;">
+An occupancy grid is a data structure used in robotics and autonomous vehicle navigation to represent the environment. It consists of a grid that divides the space into cells, where each cell holds a value indicating whether the area is occupied, free, or unknown. This helps the robot in path planning and navigation by providing a detailed map of the surroundings.
+</p> <br>
+
+<p align="center"><h3>▸ What is SLAM Gmapping?</h3></p>
+<p style="text-align: justify;">
+SLAM Gmapping is a technique used to create a map of an environment while simultaneously tracking the location of the robot within that map. It uses a particle filter-based approach to solve the SLAM (Simultaneous Localization and Mapping) problem, typically employing laser range finders to perceive the environment.
+</p> <br>
+
+<p align="center"><h3>▸ What is a Global Path Planner?</h3></p>
+<p style="text-align: justify;">
+A Global Path Planner is a component of robotic navigation systems that generates a feasible route from the robot's current position to a specified goal location over the entire map. It considers the known environment and calculates the most efficient path, often using algorithms like A* or Dijkstra’s algorithm.
+</p> <br>
+
+<p align="center"><h3>▸ What is a Local Path Planner?</h3></p>
+<p style="text-align: justify;">
+A Local Path Planner operates within the robot's immediate environment to dynamically adjust the robot's path in response to unforeseen obstacles or changes in the environment. It ensures the robot's safety by making quick decisions about path alterations to avoid collisions and optimize movement.
+</p> <br>
+
+<p align="center"><h3>▸ What is the difference between RGB Image and Depth Image?</h3></p>
+<p style="text-align: justify;">
+The difference between RGB Image and Depth Image lies in the type of information each provides. An RGB image captures the visual appearance of the environment in color, similar to what the human eye sees. A Depth image, on the other hand, provides the distance of surfaces from the camera's perspective, offering a 3D perception by measuring how far objects are from the point of view.
 </p> <br>
 
 <!------ Deployment and Testing ------>
 <p align="center"><h2>💠 Deployment and Testing</h2></p> <br>
 <p align="center">
-    <img src="readme_data/project_obs1.png" alt="Deployment & Test Image" width="1500"/>
-</p>
-
-<h3>1. Import Assets</h3>
-<p style="text-align: justify;">
-In this initial step, assets are imported into Isaac SIM. For this project, a warehouse environment was chosen as the testing ground, but users can select any robot and environment they prefer. This flexibility allows for varied applications and experimentation within the simulation.
-</p>
-
-<h3>2. Set Physics and Lighting</h3>
-<p style="text-align: justify;">
-Setting up accurate physics and lighting is essential for realistic simulations. This step involves configuring the physical properties that affect robot interaction with the environment and adjusting lighting to enhance visual realism and perception, crucial for tasks involving visual processing.
-</p>
+    <img src="readme_data/project_obs1.png" alt="Deployment and Testing Images" width="1500"/>
+</p> <br>
 
 <p align="center">
-  <img src="readme_data/project_obs2.png" alt="Deployment & Test Image" width="1111"/>
-</p>
-
-<h3>3. Implement Visual Scripting</h3>
-<p style="text-align: justify;">
-NVIDIA Isaac SIM introduces a powerful feature called visual scripting, which is utilized to design the robot's framework. This includes creating nodes for components like cameras, motors, and driver controls. Visual scripting allows for an intuitive setup of complex robotic functionalities without the need for traditional coding.
-</p>
+    <img src="readme_data/project_obs2.png" alt="Deployment and Testing Images" width="1500"/>
+</p> <br>
 
 <p align="center">
-  <img src="readme_data/project_obs3.png" alt="Deployment & Test Image" width="1111"/>
-</p>
+    <img src="readme_data/project_obs3.png" alt="Deployment and Testing Images" width="1500"/>
+</p> <br>
 
-<h3>4. Run my Python File in src</h3>
-<p style="text-align: justify;">
-After setting up the environment and carefully assigning values to the nodes in OG Graphs, the simulation is ready to be started. Run the Python script named `carter_robot_control.py` from the src directory to control the robot. This script handles the direct manipulation of the robot within the simulation.
-</p>
+<p align="center">
+    <img src="readme_data/project_obs4.png" alt="Deployment and Testing Images" width="1500"/>
+</p> <br>
 
-<h3>5. Follow NVIDIA Documentation</h3>
-<p style="text-align: justify;">
-For those new to NVIDIA Isaac SIM, it is recommended to <a href="https://docs.omniverse.nvidia.com/isaacsim/latest/ros_tutorials/index.html">follow the official NVIDIA documentation</a> to get a comprehensive understanding of the tools and features offered. This guidance will help ensure that all steps are correctly implemented and that users can maximize the platform's capabilities.
+<p align="center">
+    <img src="readme_data/project_obs5.png" alt="Deployment and Testing Images" width="1500"/>
 </p> <hr> <br> <br>
 
 <!------ End Image ------>
