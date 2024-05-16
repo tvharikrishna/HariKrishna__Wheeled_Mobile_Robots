@@ -10,7 +10,7 @@
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-The 'NVIDIA ICYMI Point Clicked Goal Navigation' project showcases the capabilities of the NVIDIA Carter robot in a simulated environment using the NVIDIA Isaac SIM platform. This project focuses on enhancing the robot's navigation abilities, allowing it to move towards a user-defined point within the environment. Utilizing advanced sensors and real-time processing, the robot efficiently navigates while avoiding obstacles, mapping its surroundings, and providing depth estimations and visual feedback through integrated RGB and depth cameras.
+The 'NVIDIA ICYMI Point Clicked Goal Navigation' project showcases the capabilities of the NVIDIA ICYMI robot in a simulated environment using the NVIDIA Isaac SIM platform. This project focuses on enhancing the robot's navigation abilities, allowing it to move towards a user-defined point within the environment. Utilizing advanced sensors and real-time processing, the robot efficiently navigates while avoiding obstacles, mapping its surroundings, and providing depth estimations and visual feedback through integrated RGB and depth cameras.
 </p>
 
 <p align="center">
